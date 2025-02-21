@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnp.js
+.pnp.cjs
+.env
+.DS_Store
+
