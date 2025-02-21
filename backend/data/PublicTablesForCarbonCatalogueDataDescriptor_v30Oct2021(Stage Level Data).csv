@@ -1,0 +1,1765 @@
+*PCF-ID,Description of LCA stage,Scope-characterization of LCA stage,*Assigned value chain portion,Emissions at stage (kg CO2e),*Emissions at this stage are exclusively transport,*Emissions at this stage are exclusively EndOfLife
+10056-1-2014,Other: Raw Material,Scope 3,Upstream,1.15,No,No
+10056-1-2014,Manufacturing,Scope 1 & 2,Operations,0.6,No,No
+10056-1-2014,Consumer use,Scope 3,Downstream,0.15,No,No
+10056-1-2014,Transportation,Scope 3,Downstream,0.09,Yes,No
+10056-1-2014,Storage,Scope 3,Downstream,0.01,No,No
+10056-1-2015,Material acquisition,Scope 3,Upstream,1.15,No,No
+10056-1-2015,Manufacturing,Scope 1 & 2,Operations,0.6,No,No
+10056-1-2015,Consumer use,Scope 3,Downstream,0.15,No,No
+10056-1-2015,Transportation,Other: Scope 1 & 3,Downstream,0.09,Yes,No
+10056-1-2015,Storage,"Scope 1, 2, & 3",Downstream,0.01,No,No
+10222-1-2013,Cradle-to-Gate,N/a (field not yet included in 2013 reporting),Operations,78.17,No,No
+10222-1-2013,Use Phase,N/a (field not yet included in 2013 reporting),Downstream,1.6,No,No
+10222-1-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,0,No,Yes
+10261-1-2017,Other: Production of materials composing the product,Scope 3,Upstream,456,No,No
+10261-1-2017,Production,Scope 1,Operations,82,No,No
+10261-1-2017,Consumer use,Scope 3,Downstream,894,No,No
+10261-1-2017,End of life/Final disposal,Scope 3,Downstream,41,No,Yes
+10261-1-2017,Distribution,Scope 3,Downstream,15,Yes,No
+10261-2-2017,Other: Production of materials composing the product,Scope 3,Upstream,456,No,No
+10261-2-2017,Production,Scope 1,Operations,82,No,No
+10261-2-2017,Consumer use,Scope 3,Downstream,1224,No,No
+10261-2-2017,End of life/Final disposal,Scope 3,Downstream,41,No,Yes
+10261-2-2017,Distribution,Scope 3,Downstream,15,Yes,No
+10261-3-2017,Other: Production of materials composing the product,Scope 3,Upstream,456,No,No
+10261-3-2017,Production,Scope 1,Operations,82,No,No
+10261-3-2017,Consumer use,Scope 3,Downstream,1680,No,No
+10261-3-2017,End of life/Final disposal,Scope 3,Downstream,41,No,Yes
+10261-3-2017,Distribution,Scope 3,Downstream,15,Yes,No
+10670-1-2013,Pre-manufacturing,N/a (field not yet included in 2013 reporting),Upstream,0.772,No,No
+10670-1-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.001,No,No
+10670-1-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,3.67,No,No
+10670-1-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,2.4,Yes,No
+10670-1-2013,Disposal,N/a (field not yet included in 2013 reporting),Downstream,0,No,Yes
+10834-1-2015,Packaging,"Scope 1, 2, & 3",Upstream,0.2,No,No
+10834-1-2015,Production,"Scope 1, 2, & 3",Operations,2.61,No,No
+10834-1-2015,Consumer use,BLANK,Downstream,1.4,No,No
+10834-1-2015,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.06,No,Yes
+10834-1-2015,Distribution,"Scope 1, 2, & 3",Downstream,0.05,Yes,No
+1085-1-2013,Sugar beet supply - field preparation to factory gate,N/a (field not yet included in 2013 reporting),Upstream,300,No,No
+1085-1-2013,Industrial process - raw materials to final product storage,N/a (field not yet included in 2013 reporting),Operations,350,No,No
+11632-1-2016,Manufacturing,Scope 1 & 2,Operations,1.6766798,No,No
+11632-1-2016,Pre-processing,Scope 1 & 2,Operations,0.033518,No,No
+11632-1-2016,Operation of premises,Scope 1 & 2,Operations,0.0086553,No,No
+11632-1-2016,Assembly,Scope 1 & 2,Operations,0.0001828,No,No
+1198-1-2014,Material acquisition,Scope 3,Upstream,0.5644,No,No
+1198-1-2014,Assembly,Scope 3,Operations,0.1429,No,No
+1198-1-2014,Distribution,Scope 3,Downstream,0.4095,Yes,No
+1198-1-2014,Transportation,Scope 3,Downstream,0.1087,Yes,No
+1198-1-2014,End of life/Final disposal,Scope 3,Downstream,0.0557,No,Yes
+1198-1-2015,Material acquisition,Scope 3,Upstream,0.5644,No,No
+1198-1-2015,Assembly,Scope 3,Operations,0.1429,No,No
+1198-1-2015,Distribution,Scope 3,Downstream,0.4095,Yes,No
+1198-1-2015,Transportation,Scope 3,Downstream,0.1087,Yes,No
+1198-1-2015,End of life/Final disposal,Scope 3,Downstream,0.0558,No,Yes
+1198-2-2013,USB & Packaging Raw Materials & Manufacture,N/a (field not yet included in 2013 reporting),Upstream,1.545,No,No
+1198-2-2013,Upstream Transportation & Distribution,N/a (field not yet included in 2013 reporting),Upstream,0.1812,Yes,No
+1198-2-2013,USB & Packaging Assembly,N/a (field not yet included in 2013 reporting),Operations,0.0507,No,No
+1198-2-2013,Downstream Transportation & Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.4466,Yes,No
+1198-2-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,0.0615,No,Yes
+1198-2-2014,Material acquisition,Scope 3,Upstream,1.545,No,No
+1198-2-2014,Assembly,Scope 3,Operations,0.0507,No,No
+1198-2-2014,Distribution,Scope 3,Downstream,0.4466,Yes,No
+1198-2-2014,Transportation,Scope 3,Downstream,0.1812,Yes,No
+1198-2-2014,End of life/Final disposal,Scope 3,Downstream,0.0615,No,Yes
+1198-2-2015,Material acquisition,Scope 3,Upstream,1.545,No,No
+1198-2-2015,Assembly,Scope 3,Operations,0.0507,No,No
+1198-2-2015,Distribution,Scope 3,Downstream,0.4466,Yes,No
+1198-2-2015,Transportation,Scope 3,Downstream,0.1812,Yes,No
+1198-2-2015,End of life/Final disposal,Scope 3,Downstream,0.0616,No,Yes
+1198-4-2015,Material acquisition,Scope 3,Upstream,0.7295,No,No
+1198-4-2015,Assembly,Scope 3,Operations,0.2859,No,No
+1198-4-2015,Distribution,Scope 3,Downstream,0.4643,Yes,No
+1198-4-2015,Transportation,Scope 3,Downstream,0.1291,Yes,No
+1198-4-2015,End of life/Final disposal,Scope 3,Downstream,0.0598,No,Yes
+12134-1-2017,Manufacturing,Scope 1,Operations,156,No,No
+12134-1-2017,Manufacturing,Scope 2,Operations,16,No,No
+12134-1-2017,Transportation,Scope 3,Downstream,27,Yes,No
+12134-2-2017,Manufacturing,Scope 1,Operations,67,No,No
+12134-2-2017,Manufacturing,Scope 2,Operations,2,No,No
+12134-2-2017,Transportation,Scope 3,Downstream,1,Yes,No
+12134-3-2017,Manufacturing,Scope 2,Operations,4,No,No
+12134-3-2017,Manufacturing,Scope 1,Operations,0.1,No,No
+12134-3-2017,Transportation,Scope 3,Downstream,0.01,Yes,No
+12134-4-2017,Manufacturing,Scope 1,Operations,7,No,No
+12134-4-2017,Manufacturing,Scope 2,Operations,0.5,No,No
+12134-4-2017,Transportation,Scope 3,Downstream,0.2,Yes,No
+12134-5-2017,Manufacturing,Scope 2,Operations,29,No,No
+12134-5-2017,Manufacturing,Scope 1,Operations,12,No,No
+12134-5-2017,Transportation,Scope 3,Downstream,1,Yes,No
+12134-7-2017,Manufacturing,Scope 2,Operations,15,No,No
+12134-7-2017,Manufacturing,Scope 1,Operations,0.05,No,No
+12134-7-2017,Transportation,Scope 3,Downstream,123,Yes,No
+12134-8-2017,Manufacturing,Scope 1,Operations,84345,No,No
+12134-8-2017,Manufacturing,Scope 2,Operations,14081,No,No
+12134-8-2017,Transportation,Scope 3,Downstream,649,Yes,No
+12348-4-2014,Packaging,Scope 3,Upstream,1.64,No,No
+12348-4-2014,Other: Raw Materials (Agriculture and processing),"Scope 1, 2, & 3",Upstream,0.936,No,No
+12348-4-2014,Processing,Scope 1 & 2,Operations,1.134,No,No
+12348-4-2014,Distribution,Scope 3,Downstream,0.2436,Yes,No
+12348-4-2014,Consumer use,Scope 3,Downstream,0.014,No,No
+12348-4-2014,End of life/Final disposal,Scope 3,Downstream,-0.504,No,Yes
+12903-1-2015,Production,Scope 2,Operations,123,No,No
+12903-1-2015,Other: Use,Scope 2,Downstream,1468,No,No
+12903-1-2015,Transportation,Scope 2,Downstream,55,Yes,No
+12903-1-2015,Other: EOL,Scope 2,Downstream,2,No,Yes
+12903-3-2015,Production,Scope 2,Operations,259,No,No
+12903-3-2015,Other: Use,Scope 2,Downstream,10000,No,No
+12903-3-2015,Other: EOL,Scope 2,Downstream,0.8,No,Yes
+12903-3-2015,Transportation,Scope 2,Downstream,0.5,Yes,No
+12942-1-2013,Packaging: For more specific details please see Humbert et al. (2009) Life cycle assessment of spray dried soluble coffee and comparison with alternatives (drip filter and capsule espresso),N/a (field not yet included in 2013 reporting),Upstream,0.008,No,No
+12942-1-2013,Cultivation: For more specific details please see Humbert et al. (2009) Life cycle assessment of spray dried soluble coffee and comparison with alternatives (drip filter and capsule espresso),N/a (field not yet included in 2013 reporting),Upstream,0.008,No,No
+12942-1-2013,Processing: For more specific details please see Humbert et al. (2009) Life cycle assessment of spray dried soluble coffee and comparison with alternatives (drip filter and capsule espresso),N/a (field not yet included in 2013 reporting),Operations,0.006,No,No
+12942-1-2013,Treatment: For more specific details please see Humbert et al. (2009) Life cycle assessment of spray dried soluble coffee and comparison with alternatives (drip filter and capsule espresso),N/a (field not yet included in 2013 reporting),Operations,0.0025,No,No
+12942-1-2013,Overheads: For more specific details please see Humbert et al. (2009) Life cycle assessment of spray dried soluble coffee and comparison with alternatives (drip filter and capsule espresso),N/a (field not yet included in 2013 reporting),Operations,0.002,No,No
+12942-1-2013,"Use and End-of-Life : For more specific details please see Humbert et al. (2009) Life cycle assessment of spray dried soluble coffee and comparison with alternatives (drip filter and capsule espresso)  Note: End-of-Life has been aggregated to Use since the system doesn't allow for negative figures for emissions resulting from recovery, incl. recycling, of used packaging.",N/a (field not yet included in 2013 reporting),Downstream,0.034,No,No
+12942-1-2013,"Boiler, coffee maker and cup manufacturing: For more specific details please see Humbert et al. (2009) Life cycle assessment of spray dried soluble coffee and comparison with alternatives (drip filter and capsule espresso)",N/a (field not yet included in 2013 reporting),Downstream,0.002,No,No
+12942-1-2013,Delivery: For more specific details please see Humbert et al. (2009) Life cycle assessment of spray dried soluble coffee and comparison with alternatives (drip filter and capsule espresso),N/a (field not yet included in 2013 reporting),Downstream,0.002,Yes,No
+12942-1-2013,Distribution: For more specific details please see Humbert et al. (2009) Life cycle assessment of spray dried soluble coffee and comparison with alternatives (drip filter and capsule espresso),N/a (field not yet included in 2013 reporting),Downstream,0.001,Yes,No
+12942-1-2016,Other: Agriculture,Scope 3,Upstream,0.02,No,No
+12942-1-2016,Packaging,Scope 3,Upstream,0.0056,No,No
+12942-1-2016,Manufacturing,Scope 1 & 2,Operations,0.0057,No,No
+12942-1-2016,Consumer use,Scope 3,Downstream,0.019,No,No
+12942-1-2016,Distribution,Scope 3,Downstream,0.0013,Yes,No
+12942-1-2016,End of life/Final disposal,Scope 3,Downstream,0,No,Yes
+12942-2-2013,2. Packaging / Equipment Production:  Extraction of raw materials and production of the drinking container and drinking glasses used. Transportation of all production materials for these components up to the point of manufacture are included in this phase.,N/a (field not yet included in 2013 reporting),Upstream,0.0662,No,No
+12942-2-2013,1. Beverage Production: Pumping and treatment of the drinking water either at a municipal water plant or at a bottled beverage production facility. Transportation of all water production materials up to the point of manufacture is included in this phase.,N/a (field not yet included in 2013 reporting),Operations,0.0071,No,No
+12942-2-2013,"4. Distribution and Marketplace:  Activities related to marketing the products, including operation of retail outlets and/or coolers.",N/a (field not yet included in 2013 reporting),Downstream,0.0584,Yes,No
+12942-2-2013,"6. Use and End-of-Life : as the system doesn't allow for negative figures, we have aggregated Use phase and End-of-life phase.   Use: Washing & Refrigeration Refrigeration of the water at the user’s home. Commercial coolers are included in the Distribution and Marketplace stage mentioned above.  End of Life:  Disposal of all materials by either landfilling, waste-to-energy or recycling. For disposal options that reflect a beneficial use of the material, these benefits are added to the system by expanding the system boundary to include the environmental burdens that are avoided by not needing to otherwise fulfill these functions. This includes the avoidance of electricity generation from waste-to-energy operations and avoidance of virgin material production from material recycling. At the end-of-life stage (and in all stages), emissions are included and equally evaluated regardless of the timing of their occurrence.  The Emissions (kg CO2e) per unit at the End of Life stage is -0.004.",N/a (field not yet included in 2013 reporting),Downstream,0.0072,No,No
+12942-2-2013,"3. Use - Transport:  All transportation occurring in the system beginning with the immediate suppliers to the manufacturers of beverage products and drinking containers, and ending with the transport of all materials to end-of-life. Also included are transportation of products from point of manufacture to point of sale.",N/a (field not yet included in 2013 reporting),Downstream,0.0054,Yes,No
+12942-2-2014,Other: Packaging / Equipment Production,Scope 3,Upstream,0.0662,No,No
+12942-2-2014,Other: Beverage Production,Scope 3,Operations,0.0071,No,No
+12942-2-2014,Other: Distribution and Marketplace,Scope 3,Downstream,0.0584,Yes,No
+12942-2-2014,Other: Use - Washing & Refrigeration,Scope 3,Downstream,0.0076,No,No
+12942-2-2014,Other: Transport,Scope 3,Downstream,0.0054,Yes,No
+12942-2-2014,Other: End of Life,Scope 3,Downstream,0,No,Yes
+12942-2-2015,Other: Packaging / Equipment Production,Scope 3,Upstream,0.0662,No,No
+12942-2-2015,Other: Beverage Production,"Scope 1, 2, & 3",Operations,0.0071,No,No
+12942-2-2015,Other: Distribution and Marketplace,Scope 3,Downstream,0.0584,Yes,No
+12942-2-2015,Other: Use - Washing & Refrigeration,Scope 3,Downstream,0.0076,No,No
+12942-2-2015,Transportation,Scope 3,Downstream,0.0054,Yes,No
+12942-2-2015,End of life/Final disposal,Scope 3,Downstream,0,No,Yes
+12942-2-2016,Other: Packaging / Equipment Production,Scope 3,Upstream,0.0662,No,No
+12942-2-2016,Other: Beverage Production,"Scope 1, 2, & 3",Operations,0.0071,No,No
+12942-2-2016,Other: Distribution and Marketplace,Scope 3,Downstream,0.0584,Yes,No
+12942-2-2016,Other: Use - Washing & Refrigeration,Scope 3,Downstream,0.0076,No,No
+12942-2-2016,Transportation,Scope 3,Downstream,0.0054,Yes,No
+12942-2-2016,End of life/Final disposal,Scope 3,Downstream,0,No,Yes
+12942-3-2013,1a.Packaging production for France.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Upstream,0.081,No,No
+12942-3-2013,1c.Product assembly and preservation process for France.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Operations,0.014,No,No
+12942-3-2013,1b.Distribution for France.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Downstream,0.076,Yes,No
+12942-3-2013,1d.End of life of packaging for France.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Downstream,0.013,No,Yes
+12942-4-2013,2a.Packaging production for Spain.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Upstream,0.081,No,No
+12942-4-2013,2c. Product assembly and preservation process for Spain.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Operations,0.019,No,No
+12942-4-2013,2b. Distribution for Spain.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Downstream,0.041,Yes,No
+12942-4-2013,2d.End of life of packaging for Spain.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Downstream,0.002,No,Yes
+12942-5-2013,3a. Packaging production for Germany.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Upstream,0.081,No,No
+12942-5-2013,3c. Product assembly and preservation process for Germany.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Operations,0.014,No,No
+12942-5-2013,3b.Distribution for Germany.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Downstream,0.028,Yes,No
+12942-5-2013,3d. End of life of packaging for Germany.  For more specific details please see Humbert et al. (2009) Life cycle assessment of two baby food packaging alternatives: glass jars vs. plastic pots.,N/a (field not yet included in 2013 reporting),Downstream,0.002,No,Yes
+13360-1-2013,raw materials and acquisition,N/a (field not yet included in 2013 reporting),Upstream,6.5,No,No
+13360-1-2013,Nokia factory,N/a (field not yet included in 2013 reporting),Operations,0.5,No,No
+13360-1-2013,Product usage,N/a (field not yet included in 2013 reporting),Downstream,3,No,No
+13360-1-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,1.9,Yes,No
+13360-1-2013,Recycling,N/a (field not yet included in 2013 reporting),Downstream,0.1,No,Yes
+13360-1-2014,Material acquisition,Scope 3,Upstream,6.5,No,No
+13360-1-2014,Manufacturing,Scope 1 & 2,Operations,0.5,No,No
+13360-1-2014,Consumer use,Scope 3,Downstream,3,No,No
+13360-1-2014,Transportation,Scope 3,Downstream,1.9,Yes,No
+13360-1-2014,Recycling,Scope 3,Downstream,0.1,No,Yes
+13360-2-2013,Raw materials and acquisition,N/a (field not yet included in 2013 reporting),Upstream,10.6,No,No
+13360-2-2013,Nokia factory,N/a (field not yet included in 2013 reporting),Operations,0.6,No,No
+13360-2-2013,Product usage,N/a (field not yet included in 2013 reporting),Downstream,2.6,No,No
+13360-2-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,2.3,Yes,No
+13360-2-2013,Recycling,N/a (field not yet included in 2013 reporting),Downstream,0.1,No,Yes
+13360-3-2013,Raw materials and acquisition,N/a (field not yet included in 2013 reporting),Upstream,3.2,No,No
+13360-3-2013,Nokia factory,N/a (field not yet included in 2013 reporting),Operations,0.6,No,No
+13360-3-2013,Product usage,N/a (field not yet included in 2013 reporting),Downstream,3.2,No,No
+13360-3-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,1.4,Yes,No
+13360-3-2013,Recycling,N/a (field not yet included in 2013 reporting),Downstream,0.06,No,Yes
+14021-1-2013,Production,N/a (field not yet included in 2013 reporting),Operations,9.17,No,No
+14021-1-2013,Other: Facility,N/a (field not yet included in 2013 reporting),Operations,0.04,No,No
+14021-1-2013,Other: Combustion,N/a (field not yet included in 2013 reporting),Downstream,49.4,No,No
+14021-1-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,1.97,Yes,No
+14021-1-2015,Production,Scope 1,Operations,9.17,No,No
+14021-1-2015,Other: Facility,Scope 1,Operations,0.04,No,No
+14021-1-2015,Other: Combustion,Scope 1,Downstream,49.4,No,No
+14021-1-2015,Distribution,Scope 1,Downstream,1.97,Yes,No
+14021-1-2016,Other: Extraction and Liquefaction,Scope 3,Upstream,7.48,No,No
+14021-1-2016,Energy/Fuel,Scope 1 & 2,Operations,0.38,No,No
+14021-1-2016,Other: Facility,Scope 3,Operations,0.34,No,No
+14021-1-2016,Other: Combustion,Scope 3,Downstream,50.96,No,No
+14021-1-2016,Transportation,Scope 3,Downstream,1.48,Yes,No
+149-1-2013,Material,N/a (field not yet included in 2013 reporting),Upstream,106.64,No,No
+149-1-2013,producing process,N/a (field not yet included in 2013 reporting),Operations,113.36,No,No
+149-1-2013,transportation,N/a (field not yet included in 2013 reporting),Downstream,24.09,Yes,No
+15398-10-2014,Material acquisition,Scope 3,Upstream,32.77,No,No
+15398-10-2014,Assembly,Scope 1 & 2,Operations,0.46,No,No
+15398-10-2014,Transportation,Scope 3,Downstream,0.08,Yes,No
+15398-11-2014,Material acquisition,Scope 3,Upstream,78.02,No,No
+15398-11-2014,Assembly,Scope 1 & 2,Operations,10.73,No,No
+15398-11-2014,Transportation,Scope 3,Downstream,0.21,Yes,No
+15398-1-2013,Raw Materials,N/a (field not yet included in 2013 reporting),Upstream,68.89,No,No
+15398-1-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.9,No,No
+15398-1-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,0.22,Yes,No
+15398-12-2014,Material acquisition,Scope 3,Upstream,17.09,No,No
+15398-12-2014,Assembly,Scope 1 & 2,Operations,2.27,No,No
+15398-12-2014,Transportation,Scope 3,Downstream,0.02,Yes,No
+15398-13-2015,Material acquisition,Scope 3,Upstream,64.34,No,No
+15398-13-2015,Assembly,Scope 1 & 2,Operations,1.48,No,No
+15398-13-2015,Transportation,Scope 3,Downstream,0.37,Yes,No
+15398-13-2016,Material acquisition,Scope 3,Upstream,72.64,No,No
+15398-13-2016,Assembly,Scope 1 & 2,Operations,1.17,No,No
+15398-13-2016,Transportation,Scope 3,Downstream,1.03,Yes,No
+15398-14-2015,Material acquisition,Scope 3,Upstream,81.87,No,No
+15398-14-2015,Assembly,Scope 1 & 2,Operations,1.06,No,No
+15398-14-2015,Transportation,Scope 3,Downstream,0.26,Yes,No
+15398-14-2016,Material acquisition,Scope 3,Upstream,96.94,No,No
+15398-14-2016,Assembly,Scope 1 & 2,Operations,2.4,No,No
+15398-14-2016,Transportation,Scope 3,Downstream,0.33,Yes,No
+15398-15-2015,Material acquisition,Scope 3,Upstream,53.04,No,No
+15398-15-2015,Assembly,Scope 1 & 2,Operations,0.03,No,No
+15398-15-2015,Transportation,Scope 3,Downstream,0.29,Yes,No
+15398-15-2016,Material acquisition,Scope 3,Upstream,16.11,No,No
+15398-15-2016,Assembly,Scope 1 & 2,Operations,0.07,No,No
+15398-15-2016,Transportation,Scope 3,Downstream,0.03,Yes,No
+15398-16-2015,Material acquisition,Scope 3,Upstream,57.34,No,No
+15398-16-2015,Assembly,Scope 1 & 2,Operations,11.67,No,No
+15398-16-2015,Transportation,Scope 3,Downstream,0.11,Yes,No
+15398-16-2016,Material acquisition,Scope 3,Upstream,21.66,No,No
+15398-16-2016,Assembly,Scope 1 & 2,Operations,2.3,No,No
+15398-16-2016,Transportation,Scope 3,Downstream,0.08,Yes,No
+15398-17-2015,Material acquisition,Scope 3,Upstream,141.84,No,No
+15398-17-2015,Assembly,Scope 1 & 2,Operations,3.95,No,No
+15398-17-2015,Transportation,Scope 3,Downstream,0.62,Yes,No
+15398-18-2016,Material acquisition,Scope 3,Upstream,59.2,No,No
+15398-18-2016,Assembly,Scope 1 & 2,Operations,6.63,No,No
+15398-18-2016,Transportation,Scope 3,Downstream,0.33,Yes,No
+15398-2-2013,Raw Materials,N/a (field not yet included in 2013 reporting),Upstream,181.413,No,No
+15398-2-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.947,No,No
+15398-2-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,0.568,Yes,No
+15398-3-2013,Raw Materials,N/a (field not yet included in 2013 reporting),Upstream,12.969,No,No
+15398-3-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,5.779,No,No
+15398-3-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,0.008,Yes,No
+15398-4-2013,Raw Materials,N/a (field not yet included in 2013 reporting),Upstream,25.116,No,No
+15398-4-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.34,No,No
+15398-4-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,0.061,Yes,No
+15398-5-2013,Raw Materials,N/a (field not yet included in 2013 reporting),Upstream,19.941,No,No
+15398-5-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.944,No,No
+15398-5-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,0.002,Yes,No
+15398-6-2014,Material acquisition,Scope 3,Upstream,101.83,No,No
+15398-6-2014,Assembly,Scope 1 & 2,Operations,3.18,No,No
+15398-6-2014,Transportation,Scope 3,Downstream,0.55,Yes,No
+15398-7-2014,Material acquisition,Scope 1 & 2,Upstream,169.04,No,No
+15398-7-2014,Assembly,Scope 1 & 2,Operations,2.99,No,No
+15398-7-2014,Transportation,Scope 3,Downstream,2.43,Yes,No
+15398-8-2014,Material acquisition,Scope 3,Upstream,25,No,No
+15398-8-2014,Assembly,Scope 1 & 2,Operations,0.67,No,No
+15398-8-2014,Transportation,Scope 3,Downstream,0.05,Yes,No
+15398-9-2014,Material acquisition,Scope 3,Upstream,5.54,No,No
+15398-9-2014,Assembly,Scope 1 & 2,Operations,0.54,No,No
+15398-9-2014,Transportation,Scope 3,Downstream,0.05,Yes,No
+15673-1-2013,Manufacture,N/a (field not yet included in 2013 reporting),Operations,31.8,No,No
+15673-1-2013,Utilization,N/a (field not yet included in 2013 reporting),Downstream,16.3,No,No
+15673-1-2013,Repair,N/a (field not yet included in 2013 reporting),Downstream,1.92,No,No
+15673-1-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,1.37,Yes,No
+15673-1-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,0.711,No,Yes
+15673-2-2014,Manufacturing,Scope 3,Operations,36.4,No,No
+15673-2-2014,Consumer use,Scope 3,Downstream,19.4,No,No
+15673-2-2014,Other: Repair,Scope 3,Downstream,0.951,No,No
+15673-2-2014,Transportation,Scope 3,Downstream,0.62,Yes,No
+15673-2-2014,Waste,Scope 3,Downstream,0.301,No,Yes
+15673-2-2014,Other: End of Life Energy Recovery,Scope 3,Downstream,-0.481,No,Yes
+15673-3-2015,Manufacturing,Scope 3,Operations,41.3,No,No
+15673-3-2015,Consumer use,Scope 3,Downstream,23.1,No,No
+15673-3-2015,Distribution,Scope 3,Downstream,2.12,Yes,No
+15673-3-2015,Other: Repair,Scope 3,Downstream,1.71,No,No
+15673-3-2015,End of life/Final disposal,Scope 3,Downstream,0.132,No,Yes
+15673-3-2015,Recycling,Scope 3,Downstream,-3.23,No,Yes
+15673-3-2016,Manufacturing,Scope 3,Operations,41.3,No,No
+15673-3-2016,Consumer use,Scope 3,Downstream,23.1,No,No
+15673-3-2016,Distribution,Scope 3,Downstream,2.12,Yes,No
+15673-3-2016,Other: Repair,Scope 3,Downstream,1.71,No,No
+15673-3-2016,End of life/Final disposal,Scope 3,Downstream,0.132,No,Yes
+15673-3-2016,Recycling,Scope 3,Downstream,-3.23,No,Yes
+15673-4-2016,Manufacturing,Scope 3,Operations,40.3,No,No
+15673-4-2016,Consumer use,Scope 3,Downstream,22.2,No,No
+15673-4-2016,Distribution,Scope 3,Downstream,2.27,Yes,No
+15673-4-2016,Other: Repair,Scope 3,Downstream,1.33,No,No
+15673-4-2016,End of life/Final disposal,Scope 3,Downstream,0.152,No,Yes
+15673-4-2016,Recycling,Scope 3,Downstream,-3.49,No,Yes
+15673-5-2016,Manufacturing,Scope 3,Operations,52.1,No,No
+15673-5-2016,Consumer use,Scope 3,Downstream,27.5,No,No
+15673-5-2016,Other: Repair,Scope 3,Downstream,2.1,No,No
+15673-5-2016,Distribution,Scope 3,Downstream,1.73,Yes,No
+15673-5-2016,End of life/Final disposal,BLANK,Downstream,0.149,No,Yes
+15673-5-2016,Recycling,Scope 3,Downstream,-3.67,No,Yes
+15763-10-2017,Material acquisition,Scope 3,Upstream,127,No,No
+15763-10-2017,Manufacturing,Scope 1 & 2,Operations,34.8,No,No
+15763-10-2017,Consumer use,Scope 3,Downstream,1430,No,No
+15763-10-2017,Distribution,Scope 3,Downstream,30.8,Yes,No
+15763-10-2017,Waste,Scope 3,Downstream,20.6,No,Yes
+16290-1-2014,Production,Scope 3,Upstream,311.3,No,No
+16290-1-2014,Production,Scope 1,Operations,419.7,No,No
+16290-1-2014,Production,Scope 2,Operations,300.7,No,No
+16290-2-2014,Production,Scope 3,Upstream,322.4,No,No
+16290-2-2014,Production,Scope 1,Operations,419.7,No,No
+16290-2-2014,Production,Scope 2,Operations,300.7,No,No
+16290-3-2014,Production,Scope 3,Upstream,340.5,No,No
+16290-3-2014,Production,Scope 1,Operations,419.7,No,No
+16290-3-2014,Production,Scope 2,Operations,300.7,No,No
+16290-4-2014,Production,Scope 3,Upstream,362.2,No,No
+16290-4-2014,Production,Scope 1,Operations,419.7,No,No
+16290-4-2014,Production,Scope 2,Operations,300.7,No,No
+16423-1-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,1.55,No,No
+16423-1-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,17.5,No,No
+16423-1-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.03,Yes,No
+16423-1-2014,Manufacturing,"Scope 1, 2, & 3",Operations,1.55,No,No
+16423-1-2014,Consumer use,Scope 3,Downstream,17.5,No,No
+16423-1-2014,Distribution,Scope 3,Downstream,0.03,Yes,No
+16423-1-2015,Manufacturing,"Scope 1, 2, & 3",Operations,1.55,No,No
+16423-1-2015,Consumer use,Scope 3,Downstream,17.5,No,No
+16423-1-2015,Distribution,Scope 3,Downstream,0.03,Yes,No
+16423-2-2016,Manufacturing,"Scope 1, 2, & 3",Operations,1.43,No,No
+16423-2-2016,Consumer use,Scope 3,Downstream,59.63,No,No
+16423-2-2016,End of life/Final disposal,Scope 3,Downstream,0.12,No,Yes
+16423-2-2016,Distribution,Scope 3,Downstream,0.05,Yes,No
+17280-1-2013,"Production of papers (including production of raw materials used, fuels consumption, electricity consumption, transport of raw materials)",N/a (field not yet included in 2013 reporting),Operations,553,No,No
+17280-1-2013,"Converting (including production of raw materials used, fuels consumption, electricity consumption, transport of raw materials)",N/a (field not yet included in 2013 reporting),Operations,193,No,No
+17280-1-2014,Production,"Scope 1, 2, & 3",Operations,553,No,No
+17280-1-2014,Processing,"Scope 1, 2, & 3",Operations,193,No,No
+17280-1-2015,Production,"Scope 1, 2, & 3",Operations,553,No,No
+17280-1-2015,Processing,"Scope 1, 2, & 3",Operations,193,No,No
+17280-2-2013,"Production of papers (including production of raw materials used, fuels consumption, electricity consumption, transport of raw materials)",N/a (field not yet included in 2013 reporting),Operations,868,No,No
+17280-2-2013,"Converting (including production of raw materials used, fuels consumption, electricity consumption, transport of raw materials)",N/a (field not yet included in 2013 reporting),Operations,96,No,No
+17280-2-2014,Production,"Scope 1, 2, & 3",Operations,868,No,No
+17280-2-2014,Processing,"Scope 1, 2, & 3",Operations,96,No,No
+17280-2-2015,Production,"Scope 1, 2, & 3",Operations,868,No,No
+17280-2-2015,Processing,BLANK,Operations,96,No,No
+17296-1-2014,Cradle to gate,Scope 3,Upstream,0.02,No,No
+17296-1-2014,Cradle to gate,Scope 1,Operations,1.16,No,No
+17296-1-2014,Cradle to gate,Scope 2,Operations,0.14,No,No
+17296-2-2014,Cradle to gate,Scope 3,Upstream,0.01,No,No
+17296-2-2014,Cradle to gate,Scope 1,Operations,0.98,No,No
+17296-2-2014,Cradle to gate,Scope 2,Operations,0.11,No,No
+17296-2-2015,Cradle to gate,Scope 3,Upstream,0.1,No,No
+17296-2-2015,Cradle to gate,Scope 1,Operations,0.9,No,No
+17296-2-2015,Cradle to gate,Scope 2,Operations,0.01,No,No
+17296-3-2015,Cradle to gate,Scope 3,Upstream,0.14,No,No
+17296-3-2015,Cradle to gate,Scope 1,Operations,1.14,No,No
+17296-3-2015,Cradle to gate,Scope 2,Operations,0.01,No,No
+17296-4-2015,Cradle to gate,Scope 3,Upstream,0.13,No,No
+17296-4-2015,Cradle to gate,Scope 1,Operations,1.05,No,No
+17296-4-2015,Cradle to gate,Scope 2,Operations,0.01,No,No
+17659-1-2014,Material acquisition,Scope 3,Upstream,1.4444,No,No
+17659-1-2014,Packaging,Scope 3,Upstream,0.37039,No,No
+17659-1-2014,Manufacturing,Scope 3,Operations,0.19247,No,No
+17659-1-2014,Transportation,Other: Scope 1 & 3,Downstream,0.44106,Yes,No
+17659-1-2014,End of life/Final disposal,Scope 3,Downstream,0.077515,No,Yes
+17659-1-2015,Material acquisition,Scope 3,Upstream,1.4444,No,No
+17659-1-2015,Packaging,Scope 3,Upstream,0.37039,No,No
+17659-1-2015,Manufacturing,Scope 3,Operations,0.19247,No,No
+17659-1-2015,Transportation,Other: Scope 1 & 3,Downstream,0.44106,Yes,No
+17659-1-2015,End of life/Final disposal,Scope 3,Downstream,0.077515,No,Yes
+17659-2-2014,Material acquisition,Scope 3,Upstream,5.507,No,No
+17659-2-2014,Packaging,Scope 3,Upstream,1.0683,No,No
+17659-2-2014,Manufacturing,Scope 3,Operations,0.4412,No,No
+17659-2-2014,Transportation,Other: Scope 1 & 3,Downstream,1.235,Yes,No
+17659-2-2014,End of life/Final disposal,Scope 3,Downstream,0.1303,No,Yes
+17659-2-2015,Material acquisition,Scope 3,Upstream,5.507,No,No
+17659-2-2015,Packaging,Scope 3,Upstream,1.0683,No,No
+17659-2-2015,Manufacturing,Scope 3,Operations,0.4412,No,No
+17659-2-2015,Transportation,Other: Scope 1 & 3,Downstream,1.235,Yes,No
+17659-2-2015,End of life/Final disposal,Scope 3,Downstream,0.1303,No,Yes
+17673-3-2016,Manufacturing,"Scope 1, 2, & 3",Operations,2.04,No,No
+17673-3-2016,Distribution,Scope 3,Downstream,0.0549,Yes,No
+17673-3-2016,Waste,Scope 3,Downstream,0.0275,No,Yes
+17673-3-2016,Waste,Scope 3,Downstream,0.0244,No,Yes
+18344-1-2014,Manufacturing,"Scope 1, 2, & 3",Operations,2390,No,No
+18344-1-2014,Transportation,Scope 3,Downstream,101,Yes,No
+18344-1-2014,Consumer use,Scope 3,Downstream,-65,No,No
+18344-1-2015,Manufacturing,"Scope 1, 2, & 3",Operations,2380,No,No
+18344-1-2015,Transportation,Scope 3,Downstream,312,Yes,No
+18344-1-2015,Consumer use,Scope 3,Downstream,-76,No,No
+18344-2-2014,Manufacturing,"Scope 1, 2, & 3",Operations,2512,No,No
+18344-2-2014,Transportation,Scope 3,Downstream,106,Yes,No
+18344-2-2014,Consumer use,Scope 3,Downstream,-68,No,No
+18344-2-2015,Manufacturing,"Scope 1, 2, & 3",Operations,2498,No,No
+18344-2-2015,Transportation,Scope 3,Downstream,328,Yes,No
+18344-2-2015,Consumer use,Scope 3,Downstream,-80,No,No
+18344-3-2014,Manufacturing,"Scope 1, 2, & 3",Operations,2573,No,No
+18344-3-2014,Transportation,Scope 3,Downstream,109,Yes,No
+18344-3-2014,Consumer use,Scope 3,Downstream,-70,No,No
+18344-3-2015,Manufacturing,"Scope 1, 2, & 3",Operations,2566,No,No
+18344-3-2015,Transportation,Scope 3,Downstream,336,Yes,No
+18344-3-2015,Consumer use,Scope 3,Downstream,-82,No,No
+18585-1-2013,Raw material for package and opening,N/a (field not yet included in 2013 reporting),Upstream,0.015,No,No
+18585-1-2013,Converting,N/a (field not yet included in 2013 reporting),Operations,0.002,No,No
+18585-1-2014,Cradle to gate,Scope 3,Upstream,0.015,No,No
+18585-1-2014,Production,Scope 1 & 2,Operations,0.002,No,No
+18585-1-2015,Cradle to gate,Scope 3,Upstream,0.015,No,No
+18585-1-2015,Production,Scope 1 & 2,Operations,0.002,No,No
+18585-1-2016,Other: upstream to Tetra Pak operations,Scope 3,Upstream,0.013,No,No
+18585-1-2016,Manufacturing,Scope 1 & 2,Operations,0.003,No,No
+18585-2-2013,Raw material for package and opening,N/a (field not yet included in 2013 reporting),Upstream,0.016,No,No
+18585-2-2013,Converting,N/a (field not yet included in 2013 reporting),Operations,0.002,No,No
+18585-2-2014,Cradle to gate,Scope 3,Upstream,0.016,No,No
+18585-2-2014,Production,Scope 1 & 2,Operations,0.002,No,No
+18585-2-2015,Cradle to gate,Scope 3,Upstream,0.016,No,No
+18585-2-2015,Production,Scope 1 & 2,Operations,0.002,No,No
+18585-2-2016,Other: upstream to Tetra Pak operations,Scope 3,Upstream,0.015,No,No
+18585-2-2016,Manufacturing,Scope 1 & 2,Operations,0.003,No,No
+18585-3-2013,Raw material for package and opening,N/a (field not yet included in 2013 reporting),Upstream,0.016,No,No
+18585-3-2013,Converting,N/a (field not yet included in 2013 reporting),Operations,0.002,No,No
+18585-3-2014,Cradle to gate,Scope 3,Upstream,0.016,No,No
+18585-3-2014,Production,Scope 1 & 2,Operations,0.002,No,No
+18585-3-2015,Cradle to gate,Scope 3,Upstream,0.016,No,No
+18585-3-2015,Production,Scope 1 & 2,Operations,0.002,No,No
+18585-3-2016,Other: upstream to Tetra Pak operations,Scope 3,Upstream,0.014,No,No
+18585-3-2016,Manufacturing,Scope 1 & 2,Operations,0.003,No,No
+18585-4-2013,Raw material for package and opening,N/a (field not yet included in 2013 reporting),Upstream,0.04,No,No
+18585-4-2013,Converting,N/a (field not yet included in 2013 reporting),Operations,0.006,No,No
+18585-4-2014,Cradle to gate,Scope 3,Upstream,0.04,No,No
+18585-4-2014,Production,Scope 1 & 2,Operations,0.006,No,No
+18585-4-2015,Cradle to gate,Scope 3,Upstream,0.04,No,No
+18585-4-2015,Processing,Scope 1 & 2,Operations,0.006,No,No
+18585-4-2016,Other: upstream to Tetra Pak operations,Scope 3,Upstream,0.035,No,No
+18585-4-2016,Manufacturing,Scope 1 & 2,Operations,0.007,No,No
+1884-1-2013,Raw Material Acquisition/Reprocessing,N/a (field not yet included in 2013 reporting),Upstream,6099,No,No
+1884-1-2013,"Production (Actual impact: 58 kg CO2, combined with the -4 impact of End-of-Life)",N/a (field not yet included in 2013 reporting),Operations,54,No,No
+1884-1-2013,Customer Use (5 years),N/a (field not yet included in 2013 reporting),Downstream,3277,No,No
+1884-1-2013,Distribution/Warehousing,N/a (field not yet included in 2013 reporting),Downstream,8,Yes,No
+1884-1-2013,"End-of-Life (This phase actually had a CO2 impact of -4 due to recycling, so we deducted that impact from the production phase to the totals would match)",N/a (field not yet included in 2013 reporting),Downstream,0,No,Yes
+1884-1-2014,Material acquisition,"Scope 1, 2, & 3",Upstream,6099,No,No
+1884-1-2014,Production,"Scope 1, 2, & 3",Operations,54,No,No
+1884-1-2014,Consumer use,Scope 1 & 2,Downstream,3277,No,No
+1884-1-2014,Distribution,Scope 3,Downstream,8,Yes,No
+1884-1-2014,End of life/Final disposal,Scope 3,Downstream,0,No,Yes
+1884-1-2015,Material acquisition,"Scope 1, 2, & 3",Upstream,334,No,No
+1884-1-2015,Packaging,Scope 3,Upstream,12,No,No
+1884-1-2015,Other: Refurbishment,"Scope 1, 2, & 3",Operations,16,No,No
+1884-1-2015,Assembly,"Scope 1, 2, & 3",Operations,2,No,No
+1884-1-2015,Consumer use,Scope 1 & 2,Downstream,1389,No,No
+1884-1-2015,Distribution,Scope 3,Downstream,19,Yes,No
+1884-1-2015,End of life/Final disposal,Scope 3,Downstream,-4,No,Yes
+1884-1-2016,Material acquisition,"Scope 1, 2, & 3",Upstream,334,No,No
+1884-1-2016,Packaging,Scope 3,Upstream,12,No,No
+1884-1-2016,Other: Refurbishment,"Scope 1, 2, & 3",Operations,16,No,No
+1884-1-2016,Assembly,"Scope 1, 2, & 3",Operations,2,No,No
+1884-1-2016,Consumer use,Scope 1 & 2,Downstream,1389,No,No
+1884-1-2016,Distribution,Scope 3,Downstream,19,Yes,No
+1884-1-2016,End of life/Final disposal,Scope 3,Downstream,-4,No,Yes
+1884-2-2013,Raw Materials,N/a (field not yet included in 2013 reporting),Upstream,30.75,No,No
+1884-2-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,1.06,No,No
+1884-2-2013,Refurbishment,N/a (field not yet included in 2013 reporting),Operations,8.4,No,No
+1884-2-2013,Assembly,N/a (field not yet included in 2013 reporting),Operations,2.02,No,No
+1884-2-2013,Use (3-year useful life),N/a (field not yet included in 2013 reporting),Downstream,49.12,No,No
+1884-2-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,1.24,Yes,No
+1884-2-2013,End-of-Life,N/a (field not yet included in 2013 reporting),Downstream,1.09,No,Yes
+1884-2-2014,Material acquisition,"Scope 1, 2, & 3",Upstream,30.75,No,No
+1884-2-2014,Packaging,Scope 3,Upstream,1.06,No,No
+1884-2-2014,Other: Refurbishment,"Scope 1, 2, & 3",Operations,8.4,No,No
+1884-2-2014,Assembly,"Scope 1, 2, & 3",Operations,2.02,No,No
+1884-2-2014,Consumer use,Scope 1 & 2,Downstream,49.12,No,No
+1884-2-2014,Distribution,Scope 3,Downstream,1.24,Yes,No
+1884-2-2014,End of life/Final disposal,Scope 3,Downstream,1.09,No,Yes
+1884-2-2015,Material acquisition,"Scope 1, 2, & 3",Upstream,22,No,No
+1884-2-2015,Packaging,Scope 3,Upstream,0.65,No,No
+1884-2-2015,Other: Refurbishment,"Scope 1, 2, & 3",Operations,1.58,No,No
+1884-2-2015,Assembly,"Scope 1, 2, & 3",Operations,0.15,No,No
+1884-2-2015,Consumer use,Scope 1 & 2,Downstream,13,No,No
+1884-2-2015,End of life/Final disposal,Scope 3,Downstream,1.45,No,Yes
+1884-2-2015,Distribution,Scope 3,Downstream,1.31,Yes,No
+1884-2-2016,Material acquisition,"Scope 1, 2, & 3",Upstream,22,No,No
+1884-2-2016,Packaging,Scope 3,Upstream,0.65,No,No
+1884-2-2016,Other: Refurbishment,"Scope 1, 2, & 3",Operations,1.58,No,No
+1884-2-2016,Assembly,"Scope 1, 2, & 3",Operations,0.15,No,No
+1884-2-2016,Consumer use,Scope 1 & 2,Downstream,13,No,No
+1884-2-2016,End of life/Final disposal,Scope 3,Downstream,1.45,No,Yes
+1884-2-2016,Distribution,Scope 3,Downstream,1.31,Yes,No
+1884-3-2013,Raw Materials,N/a (field not yet included in 2013 reporting),Upstream,1.63,No,No
+1884-3-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.2,No,No
+1884-3-2013,Refurbishment,N/a (field not yet included in 2013 reporting),Operations,0.09,No,No
+1884-3-2013,Assembly,N/a (field not yet included in 2013 reporting),Operations,0.06,No,No
+1884-3-2013,End-of-Life,N/a (field not yet included in 2013 reporting),Downstream,0.09,No,Yes
+1884-3-2013,Use (3-year useful life),N/a (field not yet included in 2013 reporting),Downstream,0.07,No,No
+1884-3-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.03,Yes,No
+1884-3-2014,Material acquisition,"Scope 1, 2, & 3",Upstream,1.63,No,No
+1884-3-2014,Packaging,Scope 3,Upstream,0.2,No,No
+1884-3-2014,Other: Refurbishment,"Scope 1, 2, & 3",Operations,0.09,No,No
+1884-3-2014,Assembly,"Scope 1, 2, & 3",Operations,0.06,No,No
+1884-3-2014,End of life/Final disposal,Scope 3,Downstream,0.09,No,Yes
+1884-3-2014,Consumer use,"Scope 1, 2, & 3",Downstream,0.07,No,No
+1884-3-2014,Distribution,Scope 3,Downstream,0.03,Yes,No
+1884-3-2015,Material acquisition,"Scope 1, 2, & 3",Upstream,1.33,No,No
+1884-3-2015,Packaging,Scope 3,Upstream,0.23,No,No
+1884-3-2015,Assembly,"Scope 1, 2, & 3",Operations,0.23,No,No
+1884-3-2015,Other: Refurbishment,"Scope 1, 2, & 3",Operations,0.08,No,No
+1884-3-2015,Distribution,Scope 3,Downstream,0.1,Yes,No
+1884-3-2015,End of life/Final disposal,Scope 3,Downstream,0.02,No,Yes
+1884-3-2015,Consumer use,Scope 1 & 2,Downstream,0,No,No
+1884-3-2016,Material acquisition,"Scope 1, 2, & 3",Upstream,1.33,No,No
+1884-3-2016,Packaging,Scope 3,Upstream,0.23,No,No
+1884-3-2016,Assembly,"Scope 1, 2, & 3",Operations,0.23,No,No
+1884-3-2016,Other: Refurbishment,"Scope 1, 2, & 3",Operations,0.08,No,No
+1884-3-2016,Distribution,Scope 3,Downstream,0.1,Yes,No
+1884-3-2016,End of life/Final disposal,Scope 3,Downstream,0.02,No,Yes
+1884-3-2016,Consumer use,Scope 1 & 2,Downstream,0,No,No
+19100-1-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,6.48,No,No
+19100-1-2013,Use (3 years),N/a (field not yet included in 2013 reporting),Downstream,104,No,No
+19100-1-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,1.08,Yes,No
+19100-1-2013,End of life,N/a (field not yet included in 2013 reporting),Downstream,0.338,No,Yes
+19100-1-2014,Manufacturing,"Scope 1, 2, & 3",Operations,6.48,No,No
+19100-1-2014,Other: Consumer use (3 years),BLANK,Downstream,104,No,No
+19100-1-2014,Distribution,"Scope 1, 2, & 3",Downstream,1.08,Yes,No
+19100-1-2014,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.338,No,Yes
+19100-1-2015,Manufacturing,"Scope 1, 2, & 3",Operations,6.48,No,No
+19100-1-2015,Other: Consumer use (three years),BLANK,Downstream,104,No,No
+19100-1-2015,Distribution,"Scope 1, 2, & 3",Downstream,1.08,Yes,No
+19100-1-2015,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.338,No,Yes
+19238-3-2017,Cradle to gate,Scope 3,Upstream,264.9,No,No
+19238-3-2017,Manufacturing,Scope 1 & 2,Operations,104.4,No,No
+19238-3-2017,Distribution,Scope 3,Downstream,8.3,Yes,No
+19238-4-2017,Cradle to gate,Scope 3,Upstream,250.2,No,No
+19238-4-2017,Manufacturing,Scope 1 & 2,Operations,104.4,No,No
+19238-4-2017,BLANK,BLANK,Operations,8.3,No,No
+19429-1-2016,Material acquisition,Scope 3,Upstream,873.34,No,No
+19429-1-2016,Manufacturing,Scope 1 & 2,Operations,450.76,No,No
+19429-1-2016,Distribution,Scope 3,Downstream,42.26,Yes,No
+20033-1-2013,Resin production,N/a (field not yet included in 2013 reporting),Upstream,2.27,No,No
+20033-1-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.025,No,No
+20033-1-2013,Resin transport,N/a (field not yet included in 2013 reporting),Upstream,0.008,Yes,No
+20033-1-2013,Pipe extrusion,N/a (field not yet included in 2013 reporting),Operations,0.2,No,No
+20033-1-2013,Pipe transport,N/a (field not yet included in 2013 reporting),Downstream,0.017,Yes,No
+20309-1-2013,production,N/a (field not yet included in 2013 reporting),Operations,5297,No,No
+20309-1-2013,use phase,N/a (field not yet included in 2013 reporting),Downstream,16313,No,No
+20309-1-2013,recycling,N/a (field not yet included in 2013 reporting),Downstream,115,No,Yes
+20309-2-2013,production,N/a (field not yet included in 2013 reporting),Operations,5675,No,No
+20309-2-2013,use phase,N/a (field not yet included in 2013 reporting),Downstream,16427,No,No
+20309-2-2013,recycling,N/a (field not yet included in 2013 reporting),Downstream,116,No,Yes
+20309-3-2013,production,N/a (field not yet included in 2013 reporting),Operations,7528,No,No
+20309-3-2013,use phase,N/a (field not yet included in 2013 reporting),Downstream,20378,No,No
+20309-3-2013,recycling,N/a (field not yet included in 2013 reporting),Downstream,105,No,Yes
+20309-4-2013,production,N/a (field not yet included in 2013 reporting),Operations,6289,No,No
+20309-4-2013,use phase,N/a (field not yet included in 2013 reporting),Downstream,24226,No,No
+20309-4-2013,recycling,N/a (field not yet included in 2013 reporting),Downstream,132,No,Yes
+20523-1-2013,Production,N/a (field not yet included in 2013 reporting),Operations,545,No,No
+20523-1-2013,End of LIfe,N/a (field not yet included in 2013 reporting),Downstream,9681,No,Yes
+20523-1-2013,Use Phase,N/a (field not yet included in 2013 reporting),Downstream,4087.6,No,No
+20523-1-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,883,Yes,No
+20523-1-2014,Manufacturing,Scope 3,Operations,690,No,No
+20523-1-2014,Consumer use,Scope 3,Downstream,31714,No,No
+20523-1-2014,Waste,Scope 3,Downstream,6694,No,Yes
+20523-1-2014,Transportation,Scope 3,Downstream,1117,Yes,No
+20523-2-2013,Production,N/a (field not yet included in 2013 reporting),Operations,845,No,No
+20523-2-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,11128,No,Yes
+20523-2-2013,Use Phase,N/a (field not yet included in 2013 reporting),Downstream,4101.4,No,No
+20523-2-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,1000,Yes,No
+20527-1-2013,Electric Motor manufacturing,N/a (field not yet included in 2013 reporting),Operations,3.5,No,No
+20527-1-2013,Electric Motor useful life (from operation until the end of the motor life). Considering the 10-year life cycle of the electric motor,N/a (field not yet included in 2013 reporting),Downstream,53054,No,No
+20527-1-2014,Cradle to gate,Scope 1 & 2,Operations,21.72,No,No
+20527-1-2014,Operation of premises,Scope 2,Downstream,87589.32,No,No
+20527-1-2015,Cradle to gate,Scope 1 & 2,Operations,23.29,No,No
+20527-1-2015,Operation of premises,Scope 2,Downstream,20007.61,No,No
+20822-1-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,21,No,No
+20822-1-2013,Manufacturing of Printer,N/a (field not yet included in 2013 reporting),Operations,279,No,No
+20822-1-2013,Manufacturing of CRU,N/a (field not yet included in 2013 reporting),Operations,114,No,No
+20822-1-2013,Use Electricity,N/a (field not yet included in 2013 reporting),Downstream,157,No,No
+20822-1-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,13,No,Yes
+20822-1-2014,Packaging,"Scope 1, 2, & 3",Upstream,21,No,No
+20822-1-2014,Other: Manufacturing of Printer,Scope 1 & 2,Operations,279,No,No
+20822-1-2014,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,114,No,No
+20822-1-2014,Other: Use electricity,Scope 3,Downstream,157,No,No
+20822-1-2014,End of life/Final disposal,Scope 3,Downstream,13,No,Yes
+20822-1-2015,Packaging,"Scope 1, 2, & 3",Upstream,21,No,No
+20822-1-2015,Other: Manufacturing of Printer,Scope 1 & 2,Operations,279,No,No
+20822-1-2015,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,114,No,No
+20822-1-2015,Consumer use,Scope 3,Downstream,157,No,No
+20822-1-2015,End of life/Final disposal,Scope 3,Downstream,13,No,Yes
+20822-1-2016,Packaging,"Scope 1, 2, & 3",Upstream,21,No,No
+20822-1-2016,Other: Manufacturing of Printer,Scope 1 & 2,Operations,279,No,No
+20822-1-2016,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,114,No,No
+20822-1-2016,Consumer use,Scope 3,Downstream,157,No,No
+20822-1-2016,End of life/Final disposal,Scope 3,Downstream,13,No,Yes
+20822-2-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,40,No,No
+20822-2-2013,Manufacturing of Printer,N/a (field not yet included in 2013 reporting),Operations,578,No,No
+20822-2-2013,Manufacturing of CRU,N/a (field not yet included in 2013 reporting),Operations,116,No,No
+20822-2-2013,Use Electricity,N/a (field not yet included in 2013 reporting),Downstream,1430,No,No
+20822-2-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,340,Yes,No
+20822-2-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,0,No,Yes
+20822-2-2014,Packaging,Scope 3,Upstream,40,No,No
+20822-2-2014,Other: Manufacturing of Printer,Scope 1 & 2,Operations,578,No,No
+20822-2-2014,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,116,No,No
+20822-2-2014,Other: Use electricity,Scope 3,Downstream,1430,No,No
+20822-2-2014,Transportation,"Scope 1, 2, & 3",Downstream,340,Yes,No
+20822-2-2014,End of life/Final disposal,Scope 1 & 2,Downstream,-59,No,Yes
+20822-2-2015,Packaging,Scope 3,Upstream,40,No,No
+20822-2-2015,Other: Manufacturing of Printer,Scope 1 & 2,Operations,578,No,No
+20822-2-2015,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,116,No,No
+20822-2-2015,Consumer use,Scope 3,Downstream,1430,No,No
+20822-2-2015,Transportation,"Scope 1, 2, & 3",Downstream,340,Yes,No
+20822-2-2015,Distribution,Scope 3,Downstream,-59,Yes,No
+20822-2-2016,Packaging,Scope 3,Upstream,40,No,No
+20822-2-2016,Other: Manufacturing of Printer,Scope 1 & 2,Operations,578,No,No
+20822-2-2016,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,116,No,No
+20822-2-2016,Consumer use,Scope 3,Downstream,1430,No,No
+20822-2-2016,Transportation,"Scope 1, 2, & 3",Downstream,340,Yes,No
+20822-2-2016,Distribution,Scope 3,Downstream,-59,Yes,No
+20822-3-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,90,No,No
+20822-3-2013,Manufacturing of Printer,N/a (field not yet included in 2013 reporting),Operations,1970,No,No
+20822-3-2013,Manufacturing of CRU,N/a (field not yet included in 2013 reporting),Operations,339,No,No
+20822-3-2013,Use Electricity,N/a (field not yet included in 2013 reporting),Downstream,4130,No,No
+20822-3-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,588,Yes,No
+20822-3-2014,Packaging,Scope 3,Upstream,90,No,No
+20822-3-2014,Other: Manufacturing of Printer,Scope 1 & 2,Operations,1970,No,No
+20822-3-2014,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,339,No,No
+20822-3-2014,Other: Use electricity,Scope 3,Downstream,4119,No,No
+20822-3-2014,Transportation,"Scope 1, 2, & 3",Downstream,572,Yes,No
+20822-3-2015,Packaging,Scope 3,Upstream,90,No,No
+20822-3-2015,Other: Manufacturing of Printer,Scope 1 & 2,Operations,1970,No,No
+20822-3-2015,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,339,No,No
+20822-3-2015,Consumer use,Scope 3,Downstream,4119,No,No
+20822-3-2015,Transportation,"Scope 1, 2, & 3",Downstream,572,Yes,No
+20822-3-2016,Packaging,Scope 3,Upstream,90,No,No
+20822-3-2016,Other: Manufacturing of Printer,Scope 1 & 2,Operations,1970,No,No
+20822-3-2016,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,339,No,No
+20822-3-2016,Consumer use,Scope 3,Downstream,4119,No,No
+20822-3-2016,Transportation,"Scope 1, 2, & 3",Downstream,572,Yes,No
+20822-4-2014,Packaging,Scope 3,Upstream,78,No,No
+20822-4-2014,Other: Manufacturing of Printer,Scope 1 & 2,Operations,109,No,No
+20822-4-2014,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,74,No,No
+20822-4-2014,Other: Use Electricity,Scope 3,Downstream,1719,No,No
+20822-4-2014,Transportation,"Scope 1, 2, & 3",Downstream,31,Yes,No
+20822-4-2015,Packaging,Scope 3,Upstream,78,No,No
+20822-4-2015,Other: Manufacturing of Printer,Scope 1 & 2,Operations,109,No,No
+20822-4-2015,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,74,No,No
+20822-4-2015,Consumer use,Scope 3,Downstream,1719,No,No
+20822-4-2015,Transportation,"Scope 1, 2, & 3",Downstream,31,Yes,No
+20822-4-2016,Packaging,Scope 3,Upstream,78,No,No
+20822-4-2016,Other: Manufacturing of Printer,Scope 1 & 2,Operations,109,No,No
+20822-4-2016,Other: Manufacturing of Customer Replacement Unit,Scope 1 & 2,Operations,74,No,No
+20822-4-2016,Consumer use,Scope 3,Downstream,1719,No,No
+20822-4-2016,Transportation,"Scope 1, 2, & 3",Downstream,31,Yes,No
+20822-5-2014,Material acquisition,Scope 1 & 2,Upstream,270,No,No
+20822-5-2014,Production,Scope 1 & 2,Operations,43,No,No
+20822-5-2014,Other: Use & Maintenance,"Scope 1, 2, & 3",Downstream,1600,No,No
+20822-5-2014,End of life/Final disposal,Scope 3,Downstream,70,No,Yes
+20822-5-2014,Distribution,"Scope 1, 2, & 3",Downstream,46,Yes,No
+20822-5-2015,Material acquisition,Scope 1 & 2,Upstream,270,No,No
+20822-5-2015,Production,Scope 1 & 2,Operations,43,No,No
+20822-5-2015,Other: Consumer Use & Maintenance,"Scope 1, 2, & 3",Downstream,1600,No,No
+20822-5-2015,End of life/Final disposal,Scope 3,Downstream,70,No,Yes
+20822-5-2015,Distribution,"Scope 1, 2, & 3",Downstream,46,Yes,No
+20822-5-2016,Material acquisition,Scope 1 & 2,Upstream,270,No,No
+20822-5-2016,Production,Scope 1 & 2,Operations,43,No,No
+20822-5-2016,Other: Consumer Use & Maintenance,"Scope 1, 2, & 3",Downstream,1600,No,No
+20822-5-2016,End of life/Final disposal,Scope 3,Downstream,70,No,Yes
+20822-5-2016,Distribution,"Scope 1, 2, & 3",Downstream,46,Yes,No
+20822-6-2015,Material acquisition,Scope 1 & 2,Upstream,2710,No,No
+20822-6-2015,Consumer use,Scope 3,Downstream,1140,No,No
+20822-6-2015,"Other: Consumable Use (toner, and print cartridge – excludes paper)","Scope 1, 2, & 3",Downstream,290,No,No
+20822-6-2015,Distribution,"Scope 1, 2, & 3",Downstream,73.9,Yes,No
+20822-6-2015,End of life/Final disposal,Scope 3,Downstream,2.58,No,Yes
+20822-6-2016,Material acquisition,Scope 1 & 2,Upstream,2710,No,No
+20822-6-2016,Consumer use,Scope 3,Downstream,1140,No,No
+20822-6-2016,"Other: Consumable Use (toner, and print cartridge – excludes paper)","Scope 1, 2, & 3",Downstream,290,No,No
+20822-6-2016,Distribution,"Scope 1, 2, & 3",Downstream,72.9,Yes,No
+20822-6-2016,End of life/Final disposal,Scope 3,Downstream,2.58,No,Yes
+20822-7-2015,Material acquisition,Scope 1 & 2,Upstream,620,No,No
+20822-7-2015,Production,Scope 1 & 2,Operations,34,No,No
+20822-7-2015,Other: Consumer Use & Maintenance,"Scope 1, 2, & 3",Downstream,500,No,No
+20822-7-2015,End of life/Final disposal,Scope 3,Downstream,99,No,Yes
+20822-7-2015,Distribution,"Scope 1, 2, & 3",Downstream,50,Yes,No
+20822-7-2016,Material acquisition,Scope 1 & 2,Upstream,620,No,No
+20822-7-2016,Production,Scope 1 & 2,Operations,34,No,No
+20822-7-2016,Other: Consumer Use & Maintenance,"Scope 1, 2, & 3",Downstream,500,No,No
+20822-7-2016,End of life/Final disposal,Scope 3,Downstream,99,No,Yes
+20822-7-2016,Distribution,"Scope 1, 2, & 3",Downstream,50,Yes,No
+20822-8-2015,Material acquisition,Scope 1 & 2,Upstream,620,No,No
+20822-8-2015,Production,Scope 1 & 2,Operations,34,No,No
+20822-8-2015,Other: Consumer Use & Maintenance,"Scope 1, 2, & 3",Downstream,690,No,No
+20822-8-2015,End of life/Final disposal,Scope 3,Downstream,99,No,Yes
+20822-8-2015,Distribution,"Scope 1, 2, & 3",Downstream,50,Yes,No
+20822-8-2016,Material acquisition,Scope 1 & 2,Upstream,620,No,No
+20822-8-2016,Production,Scope 1 & 2,Operations,34,No,No
+20822-8-2016,Other: Consumer Use & Maintenance,"Scope 1, 2, & 3",Downstream,690,No,No
+20822-8-2016,End of life/Final disposal,Scope 3,Downstream,99,No,Yes
+20822-8-2016,Distribution,"Scope 1, 2, & 3",Downstream,50,Yes,No
+20822-9-2015,Material acquisition,Scope 1 & 2,Upstream,620,No,No
+20822-9-2015,Production,Scope 1 & 2,Operations,34,No,No
+20822-9-2015,Other: Consumer Use & Maintenance,"Scope 1, 2, & 3",Downstream,850,No,No
+20822-9-2015,End of life/Final disposal,Scope 3,Downstream,99,No,Yes
+20822-9-2015,Distribution,"Scope 1, 2, & 3",Downstream,50,Yes,No
+20822-9-2016,Material acquisition,Scope 1 & 2,Upstream,620,No,No
+20822-9-2016,Production,Scope 1 & 2,Operations,34,No,No
+20822-9-2016,Other: Consumer Use & Maintenance,"Scope 1, 2, & 3",Downstream,850,No,No
+20822-9-2016,End of life/Final disposal,Scope 3,Downstream,99,No,Yes
+20822-9-2016,Distribution,"Scope 1, 2, & 3",Downstream,50,Yes,No
+20871-1-2015,Material acquisition,Scope 3,Upstream,22.9,No,No
+20871-1-2015,Production,Scope 1 & 2,Operations,8.6,No,No
+20871-1-2015,Consumer use,Scope 3,Downstream,10.7,No,No
+20871-1-2015,Transportation,Scope 3,Downstream,0.023,Yes,No
+20871-1-2015,End of life/Final disposal,BLANK,Downstream,0.0066,No,Yes
+20871-2-2015,Material acquisition,Scope 3,Upstream,0.235,No,No
+20871-2-2015,Production,BLANK,Operations,0.018,No,No
+20871-2-2015,Consumer use,Scope 3,Downstream,13.6,No,No
+20871-2-2015,Transportation,Scope 3,Downstream,0.0011,Yes,No
+20871-2-2015,End of life/Final disposal,BLANK,Downstream,0.0002,No,Yes
+20871-5-2015,Material acquisition,Scope 3,Upstream,2.4,No,No
+20871-5-2015,BLANK,Scope 3,Operations,0.061,No,No
+20871-5-2015,BLANK,Scope 3,Operations,0.009,No,No
+20871-5-2015,Consumer use,Scope 3,Downstream,0.03,No,No
+20871-6-2015,Material acquisition,Scope 3,Upstream,8.26,No,No
+20871-6-2015,Transportation,Scope 3,Downstream,0.011,Yes,No
+20871-6-2015,Consumer use,Scope 3,Downstream,0.003,No,No
+20871-6-2015,End of life/Final disposal,Scope 3,Downstream,0.002,No,Yes
+20947-1-2014,Cradle to gate,Scope 3,Upstream,24,No,No
+20947-1-2014,Production,Scope 1 & 2,Operations,7,No,No
+20947-1-2014,Processing,Scope 3,Downstream,210.8,No,No
+20947-1-2014,Recycling,Scope 3,Downstream,13.2,No,Yes
+20947-1-2014,Transportation,Scope 3,Downstream,1.5,Yes,No
+20947-1-2015,Cradle to gate,Scope 3,Upstream,39.6,No,No
+20947-1-2015,Manufacturing,Scope 1 & 2,Operations,11.5,No,No
+20947-1-2015,Consumer use,Scope 3,Downstream,210.8,No,No
+20947-1-2015,End of life/Final disposal,Scope 3,Downstream,24.8,No,Yes
+20947-1-2015,Transportation,Scope 3,Downstream,0.98,Yes,No
+2135-1-2013,Feedstock,N/a (field not yet included in 2013 reporting),Upstream,1.08,No,No
+2135-1-2013,Transport Feedstock,N/a (field not yet included in 2013 reporting),Upstream,0.006,Yes,No
+2135-1-2013,Polymerization,N/a (field not yet included in 2013 reporting),Operations,0.22,No,No
+2135-1-2013,Bagging,N/a (field not yet included in 2013 reporting),Operations,0.012,No,No
+2135-2-2013,Feedstock,N/a (field not yet included in 2013 reporting),Upstream,1.16,No,No
+2135-2-2013,Transport Feedstock,N/a (field not yet included in 2013 reporting),Upstream,0.0002,Yes,No
+2135-2-2013,Production,N/a (field not yet included in 2013 reporting),Operations,0.16,No,No
+2135-2-2013,Bagging,N/a (field not yet included in 2013 reporting),Operations,0.1,No,No
+2135-3-2013,Feedsotck,N/a (field not yet included in 2013 reporting),Upstream,0.78,No,No
+2135-3-2013,Polymerization,N/a (field not yet included in 2013 reporting),Operations,0.23,No,No
+2135-3-2013,Bagging,N/a (field not yet included in 2013 reporting),Operations,0.01,No,No
+2135-3-2013,Transport,N/a (field not yet included in 2013 reporting),Downstream,0.75,Yes,No
+2156-1-2016,Material acquisition,Scope 3,Upstream,10.84,No,No
+2156-1-2016,Manufacturing,Scope 1 & 2,Operations,4.58,No,No
+2156-1-2016,Consumer use,Scope 3,Downstream,86.1,No,No
+2156-1-2016,Other: End of life and recycling,Scope 3,Downstream,16.14,No,Yes
+2156-1-2016,Distribution,Scope 3,Downstream,0.33,Yes,No
+21673-1-2014,Material acquisition,Scope 1 & 2,Upstream,33.6,No,No
+21673-1-2014,Assembly,Scope 1 & 2,Operations,1,No,No
+21673-1-2014,Consumer use,Scope 3,Downstream,84.9,No,No
+21673-1-2014,End of life/Final disposal,Scope 1 & 2,Downstream,6.9,No,Yes
+21889-1-2014,Energy/Fuel,Scope 2,Operations,467.8,No,No
+21889-1-2014,Cradle to gate,Scope 1,Operations,87.2,No,No
+21889-1-2015,Energy/Fuel,Scope 2,Operations,373.6,No,No
+21889-1-2015,Cradle to gate,Scope 1,Operations,77.9,No,No
+22295-10-2015,Cradle to gate,Scope 3,Upstream,101,No,No
+22295-10-2015,Production,Scope 1,Operations,451,No,No
+22295-10-2015,Production,Scope 2,Operations,316,No,No
+22295-10-2015,Transportation,Scope 3,Downstream,50,Yes,No
+22295-11-2015,Cradle to gate,Scope 3,Upstream,101,No,No
+22295-11-2015,Production,Scope 1,Operations,451,No,No
+22295-11-2015,Production,Scope 2,Operations,316,No,No
+22295-11-2015,Transportation,Scope 3,Downstream,50,Yes,No
+22295-1-2013,Scope 3: Purchased materials,N/a (field not yet included in 2013 reporting),Upstream,127,No,No
+22295-1-2013,Scope 1: Direct GHG emissions from sources that are owned/controlled by us,N/a (field not yet included in 2013 reporting),Operations,332,No,No
+22295-1-2013,Scope 2: GHG emissions from the generation of purchased electricity.,N/a (field not yet included in 2013 reporting),Operations,93,No,No
+22295-1-2013,Scope 3: Transportation,N/a (field not yet included in 2013 reporting),Downstream,45,Yes,No
+22295-1-2015,Cradle to gate,Scope 3,Upstream,123,No,No
+22295-1-2015,Production,Scope 1,Operations,382,No,No
+22295-1-2015,Production,Scope 2,Operations,228,No,No
+22295-1-2015,Transportation,Scope 3,Downstream,49,Yes,No
+22295-12-2015,Cradle to gate,Scope 3,Upstream,101,No,No
+22295-12-2015,Production,Scope 1,Operations,451,No,No
+22295-12-2015,Production,Scope 2,Operations,316,No,No
+22295-12-2015,Transportation,Scope 3,Downstream,50,Yes,No
+22295-13-2015,Cradle to gate,Scope 3,Upstream,101,No,No
+22295-13-2015,Production,Scope 1,Operations,451,No,No
+22295-13-2015,Production,Scope 2,Operations,316,No,No
+22295-13-2015,Transportation,Scope 3,Downstream,50,Yes,No
+22295-14-2015,Cradle to gate,Scope 3,Upstream,101,No,No
+22295-14-2015,Production,Scope 1,Operations,447,No,No
+22295-14-2015,Production,Scope 2,Operations,302,No,No
+22295-14-2015,Transportation,Scope 3,Downstream,50,Yes,No
+22295-16-2016,Cradle to gate,Scope 3,Upstream,192,No,No
+22295-16-2016,Production,Scope 1,Operations,381,No,No
+22295-16-2016,Production,Scope 2,Operations,194,No,No
+22295-17-2016,Cradle to gate,Scope 3,Upstream,179,No,No
+22295-17-2016,Production,Scope 2,Operations,103,No,No
+22295-17-2016,Production,Scope 1,Operations,87,No,No
+22295-18-2016,Cradle to gate,Scope 3,Upstream,180,No,No
+22295-18-2016,Production,Scope 2,Operations,331,No,No
+22295-18-2016,Production,Scope 1,Operations,276,No,No
+22295-19-2016,Cradle to gate,Scope 3,Upstream,196,No,No
+22295-19-2016,Production,Scope 2,Operations,266,No,No
+22295-19-2016,Production,Scope 1,Operations,72,No,No
+22295-20-2016,Cradle to gate,Scope 3,Upstream,215,No,No
+22295-20-2016,Production,Scope 1,Operations,388,No,No
+22295-20-2016,Production,Scope 2,Operations,163,No,No
+22295-21-2016,Cradle to gate,Scope 3,Upstream,209,No,No
+22295-21-2016,Production,Scope 1,Operations,387,No,No
+22295-21-2016,Production,Scope 2,Operations,169,No,No
+22295-2-2013,Scope 3: Purchased materials,N/a (field not yet included in 2013 reporting),Upstream,127,No,No
+22295-2-2013,Scope 2: GHG emissions from the generation of purchased electricity.,N/a (field not yet included in 2013 reporting),Operations,169,No,No
+22295-2-2013,Scope 1: Direct GHG emissions from sources that are owned/controlled by us,N/a (field not yet included in 2013 reporting),Operations,132,No,No
+22295-2-2013,Scope 3: Transportation,N/a (field not yet included in 2013 reporting),Downstream,54,Yes,No
+22295-2-2015,Cradle to gate,Scope 3,Upstream,125,No,No
+22295-2-2015,Production,Scope 2,Operations,322,No,No
+22295-2-2015,Production,Scope 1,Operations,298,No,No
+22295-2-2015,Transportation,Scope 3,Downstream,59,Yes,No
+22295-23-2016,Cradle to gate,Scope 3,Upstream,215,No,No
+22295-23-2016,Production,Scope 1,Operations,388,No,No
+22295-23-2016,Production,Scope 2,Operations,163,No,No
+22295-24-2016,Cradle to gate,Scope 3,Upstream,168,No,No
+22295-24-2016,Production,Scope 2,Operations,326,No,No
+22295-24-2016,Production,Scope 1,Operations,298,No,No
+22295-25-2016,Cradle to gate,Scope 3,Upstream,196,No,No
+22295-25-2016,Production,Scope 2,Operations,266,No,No
+22295-25-2016,Production,Scope 1,Operations,72,No,No
+22295-26-2016,Cradle to gate,Scope 3,Upstream,201,No,No
+22295-26-2016,Production,Scope 1,Operations,382,No,No
+22295-26-2016,Production,Scope 2,Operations,193,No,No
+22295-3-2013,Scope 3: Purchased materials,N/a (field not yet included in 2013 reporting),Upstream,117,No,No
+22295-3-2013,Scope 2: GHG emissions from the generation of purchased electricity,N/a (field not yet included in 2013 reporting),Operations,173,No,No
+22295-3-2013,Scope 1: Direct GHG emissions from sources that are owned/controlled by us,N/a (field not yet included in 2013 reporting),Operations,135,No,No
+22295-3-2013,Scope 3: Transportation,N/a (field not yet included in 2013 reporting),Downstream,54,Yes,No
+22295-3-2015,Cradle to gate,Scope 3,Upstream,114,No,No
+22295-3-2015,Production,Scope 2,Operations,331,No,No
+22295-3-2015,Production,Scope 1,Operations,305,No,No
+22295-3-2015,Transportation,Scope 3,Downstream,61,Yes,No
+22295-4-2013,Scope 3: Purchased materials,N/a (field not yet included in 2013 reporting),Upstream,152,No,No
+22295-4-2013,Scope 2: GHG emissions from the generation of purchased electricity,N/a (field not yet included in 2013 reporting),Operations,81,No,No
+22295-4-2013,Scope 1: Direct GHG emissions from sources that are owned/controlled by us,N/a (field not yet included in 2013 reporting),Operations,77,No,No
+22295-4-2013,Scope 3: Transportation,N/a (field not yet included in 2013 reporting),Downstream,49,Yes,No
+22295-4-2015,Cradle to gate,Scope 3,Upstream,147,No,No
+22295-4-2015,Production,Scope 2,Operations,266,No,No
+22295-4-2015,Production,Scope 1,Operations,72,No,No
+22295-4-2015,Transportation,Scope 3,Downstream,49,Yes,No
+22295-5-2013,Scope 3: Purchased materials,N/a (field not yet included in 2013 reporting),Upstream,152,No,No
+22295-5-2013,Scope 2: GHG emissions from the generation of purchased electricity,N/a (field not yet included in 2013 reporting),Operations,81,No,No
+22295-5-2013,Scope 1: Direct GHG emissions from sources that are owned/controlled by us,N/a (field not yet included in 2013 reporting),Operations,77,No,No
+22295-5-2013,Scope 3: Transportation,N/a (field not yet included in 2013 reporting),Downstream,49,Yes,No
+22295-5-2015,Cradle to gate,Scope 3,Upstream,147,No,No
+22295-5-2015,Production,Scope 2,Operations,266,No,No
+22295-5-2015,Production,Scope 1,Operations,72,No,No
+22295-5-2015,Transportation,Scope 3,Downstream,49,Yes,No
+22295-6-2013,Scope 3: Purchased materials,N/a (field not yet included in 2013 reporting),Upstream,150,No,No
+22295-6-2013,Scope 1: Direct GHG emissions from sources that are owned/controlled by us,N/a (field not yet included in 2013 reporting),Operations,135,No,No
+22295-6-2013,Scope 2: GHG emissions from the generation of purchased electricity,N/a (field not yet included in 2013 reporting),Operations,55,No,No
+22295-6-2013,Scope 3: Transportation,N/a (field not yet included in 2013 reporting),Downstream,58,Yes,No
+22295-7-2013,Scope 3: Purchased materials,N/a (field not yet included in 2013 reporting),Upstream,134,No,No
+22295-7-2013,Scope 1: Direct GHG emissions from sources that are owned/controlled by us,N/a (field not yet included in 2013 reporting),Operations,461,No,No
+22295-7-2013,Scope 2: GHG emissions from the generation of purchased electricity,N/a (field not yet included in 2013 reporting),Operations,135,No,No
+22295-7-2013,Scope 3: Transportation,N/a (field not yet included in 2013 reporting),Downstream,51,Yes,No
+22295-8-2013,Scope 3: Purchased materials,N/a (field not yet included in 2013 reporting),Upstream,148,No,No
+22295-8-2013,Scope 1: Direct GHG emissions from sources that are owned/controlled by us,N/a (field not yet included in 2013 reporting),Operations,459,No,No
+22295-8-2013,Scope 2: GHG emissions from the generation of purchased electricity,N/a (field not yet included in 2013 reporting),Operations,133,No,No
+22295-8-2013,Scope 3: Transportation,N/a (field not yet included in 2013 reporting),Downstream,51,Yes,No
+22295-9-2013,Scope 3: Purchased materials,N/a (field not yet included in 2013 reporting),Upstream,134,No,No
+22295-9-2013,Scope 1: Direct GHG emissions from sources that are owned/controlled by us,N/a (field not yet included in 2013 reporting),Operations,461,No,No
+22295-9-2013,Scope 2: GHG emissions from the generation of purchased electricity,N/a (field not yet included in 2013 reporting),Operations,135,No,No
+22295-9-2013,Scope 3: Transportation,N/a (field not yet included in 2013 reporting),Downstream,51,Yes,No
+22379-1-2014,Material acquisition,Scope 3,Upstream,273,No,No
+22379-1-2014,Packaging,Scope 3,Upstream,6,No,No
+22379-1-2014,Manufacturing,Scope 1 & 2,Operations,23,No,No
+22379-1-2014,Energy/Fuel,Scope 3,Operations,16,No,No
+22379-1-2014,Transportation,Scope 3,Downstream,84,Yes,No
+22379-1-2015,Material acquisition,Scope 3,Upstream,273,No,No
+22379-1-2015,Packaging,Scope 3,Upstream,6,No,No
+22379-1-2015,Manufacturing,Scope 1,Operations,23,No,No
+22379-1-2015,Energy/Fuel,Scope 2,Operations,16,No,No
+22379-1-2015,Transportation,Scope 3,Downstream,84,Yes,No
+22645-1-2013,1.Major component suppliers stage:6.84,N/a (field not yet included in 2013 reporting),Upstream,6.84,No,No
+22645-1-2013,3.LCD Array Cell manufacturing stage:2.88,N/a (field not yet included in 2013 reporting),Operations,2.88,No,No
+22645-1-2013,4.LCD Module assembly stage:0.96,N/a (field not yet included in 2013 reporting),Operations,0.96,No,No
+22645-1-2013,2.sales transport stage:1.32,N/a (field not yet included in 2013 reporting),Downstream,1.32,Yes,No
+22710-1-2014,"Other: storage, transportation, manufacturing, packaging",Scope 3,Upstream,0.141,No,No
+22710-1-2014,Production,Scope 2,Operations,0.0123,No,No
+22710-1-2014,Production,Scope 1,Operations,0.005,No,No
+22710-1-2014,Other: Losses of CO2 (product) during manufacturing,Scope 1,Operations,0.0013,No,No
+22710-1-2014,Transportation,Scope 1,Downstream,0.007,Yes,No
+22710-1-2014,Storage,Scope 1,Downstream,0.0007,No,No
+22710-1-2015,"Other: Manufacturing, Packaging",Scope 3,Upstream,0.0607,No,No
+22710-1-2015,Production,Scope 2,Operations,0.0131,No,No
+22710-1-2015,Production,Scope 1,Operations,0.0048,No,No
+22710-1-2015,Other: Losses of CO2 used for carbonation of the beverages during manufacturing.,Scope 1,Operations,0.0016,No,No
+22710-1-2015,"Other: Electricity purchased for remote properties (Distribution centres, offices etc)",Scope 2,Operations,0.0006,No,No
+22710-1-2015,"Other: Storage, transportation",Scope 3,Downstream,0.0715,Yes,No
+22710-1-2015,Transportation,Scope 1,Downstream,0.0048,Yes,No
+22710-1-2015,Storage,Scope 1,Downstream,0.0007,No,No
+22710-1-2015,"Other: Fuel used in remote properties (Distribution centres, offices etc)",Scope 1,Downstream,0.0004,No,No
+22710-1-2016,Other: Manufacturing & Packaging,Scope 3,Upstream,0.0622,No,No
+22710-1-2016,Production,Scope 2,Operations,0.0102,No,No
+22710-1-2016,Production,Scope 1,Operations,0.0039,No,No
+22710-1-2016,Other: Losses of CO2 used for carbonation of the beverages during manufacturing.,Scope 1,Operations,0.0016,No,No
+22710-1-2016,"Other: Electricity purchased for remote properties (Distribution centres, offices etc.)",Scope 2,Operations,0.0005,No,No
+22710-1-2016,Other: Transportation & Storage,Scope 3,Downstream,0.0641,Yes,No
+22710-1-2016,Transportation,Scope 1,Downstream,0.0041,Yes,No
+22710-1-2016,Storage,Scope 1,Downstream,0.0005,No,No
+22710-1-2016,"Other: Fuel used in remote properties (Distribution centres, offices etc.)",Scope 1,Downstream,0.0004,No,No
+23195-10-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,2.5,No,No
+23195-10-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,142,No,No
+23195-10-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,149.7,No,No
+23195-10-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,5.2,Yes,No
+23195-10-2013,End-of-life,N/a (field not yet included in 2013 reporting),Downstream,3.4,No,Yes
+23195-11-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,3.3,No,No
+23195-11-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,166,No,No
+23195-11-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,204.7,No,No
+23195-11-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,7,Yes,No
+23195-11-2013,End-of-life,N/a (field not yet included in 2013 reporting),Downstream,4.5,No,Yes
+23195-12-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,4.9,No,No
+23195-12-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,180,No,No
+23195-12-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,271.4,No,No
+23195-12-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,8.8,Yes,No
+23195-12-2013,End-of-life,N/a (field not yet included in 2013 reporting),Downstream,4.6,No,Yes
+23195-3-2013,Production,N/a (field not yet included in 2013 reporting),Operations,132,No,No
+23195-3-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,145,No,No
+23195-3-2013,End-of-life (negative emissions),N/a (field not yet included in 2013 reporting),Downstream,-8.7,No,Yes
+23195-4-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,2.2,No,No
+23195-4-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,153,No,No
+23195-4-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,256,No,No
+23195-4-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,7.4,Yes,No
+23195-4-2013,End-of-life,N/a (field not yet included in 2013 reporting),Downstream,2,No,Yes
+23195-5-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,3.8,No,No
+23195-5-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,165,No,No
+23195-5-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,304,No,No
+23195-5-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,18.3,Yes,No
+23195-5-2013,End-of-life,N/a (field not yet included in 2013 reporting),Downstream,5.4,No,Yes
+23195-6-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,4.3,No,No
+23195-6-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,155,No,No
+23195-6-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,393,No,No
+23195-6-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,17.5,Yes,No
+23195-6-2013,End-of-life,N/a (field not yet included in 2013 reporting),Downstream,6,No,Yes
+23195-7-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,1.1,No,No
+23195-7-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,179,No,No
+23195-7-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,34.1,No,No
+23195-7-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,18.3,Yes,No
+23195-7-2013,End-of-life,N/a (field not yet included in 2013 reporting),Downstream,1,No,Yes
+23195-8-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,1.7,No,No
+23195-8-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,180,No,No
+23195-8-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,76.1,No,No
+23195-8-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,28.4,Yes,No
+23195-8-2013,End-of-life,N/a (field not yet included in 2013 reporting),Downstream,1.7,No,Yes
+23195-9-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.9,No,No
+23195-9-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,254,No,No
+23195-9-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,83.5,No,No
+23195-9-2013,Transportation,N/a (field not yet included in 2013 reporting),Downstream,27.5,Yes,No
+23195-9-2013,End-of-life,N/a (field not yet included in 2013 reporting),Downstream,1.8,No,Yes
+2377-1-2014,Material acquisition,"Scope 1, 2, & 3",Upstream,0.9,No,No
+2377-1-2014,Production,"Scope 1, 2, & 3",Operations,0.14,No,No
+2377-1-2014,Consumer use,"Scope 1, 2, & 3",Downstream,3.51,No,No
+2377-1-2014,Distribution,"Scope 1, 2, & 3",Downstream,0.08,Yes,No
+2377-1-2014,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.05,No,Yes
+2377-1-2015,Material acquisition,"Scope 1, 2, & 3",Upstream,0.9,No,No
+2377-1-2015,Production,"Scope 1, 2, & 3",Operations,0.14,No,No
+2377-1-2015,Consumer use,"Scope 1, 2, & 3",Downstream,3.51,No,No
+2377-1-2015,Distribution,"Scope 1, 2, & 3",Downstream,0.08,Yes,No
+2377-1-2015,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.05,No,Yes
+2377-2-2014,Material acquisition,"Scope 1, 2, & 3",Upstream,6.81,No,No
+2377-2-2014,Production,"Scope 1, 2, & 3",Operations,0.21,No,No
+2377-2-2014,Consumer use,"Scope 1, 2, & 3",Downstream,49.51,No,No
+2377-2-2014,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.1,No,Yes
+2377-2-2014,Distribution,"Scope 1, 2, & 3",Downstream,0.08,Yes,No
+2377-2-2015,Material acquisition,"Scope 1, 2, & 3",Upstream,6.81,No,No
+2377-2-2015,Production,"Scope 1, 2, & 3",Operations,0.21,No,No
+2377-2-2015,Consumer use,"Scope 1, 2, & 3",Downstream,49.51,No,No
+2377-2-2015,Distribution,"Scope 1, 2, & 3",Downstream,0.81,Yes,No
+2377-2-2015,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.1,No,Yes
+2377-3-2014,Material acquisition,"Scope 1, 2, & 3",Upstream,2.25,No,No
+2377-3-2014,Production,"Scope 1, 2, & 3",Operations,0.35,No,No
+2377-3-2014,Consumer use,"Scope 1, 2, & 3",Downstream,29.91,No,No
+2377-3-2014,Distribution,"Scope 1, 2, & 3",Downstream,0.1,Yes,No
+2377-3-2014,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.1,No,Yes
+2377-3-2015,Material acquisition,"Scope 1, 2, & 3",Upstream,2.25,No,No
+2377-3-2015,Production,"Scope 1, 2, & 3",Operations,0.35,No,No
+2377-3-2015,Consumer use,"Scope 1, 2, & 3",Downstream,29.91,No,No
+2377-3-2015,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.1,No,Yes
+2377-3-2015,Distribution,"Scope 1, 2, & 3",Downstream,0.1,Yes,No
+2377-4-2014,Material acquisition,"Scope 1, 2, & 3",Upstream,9.93,No,No
+2377-4-2014,Production,"Scope 1, 2, & 3",Operations,0.04,No,No
+2377-4-2014,Consumer use,"Scope 1, 2, & 3",Downstream,77.08,No,No
+2377-4-2014,Distribution,"Scope 1, 2, & 3",Downstream,1.13,Yes,No
+2377-4-2014,End of life/Final disposal,BLANK,Downstream,0.24,No,Yes
+2377-4-2015,Material acquisition,"Scope 1, 2, & 3",Upstream,9.93,No,No
+2377-4-2015,Production,"Scope 1, 2, & 3",Operations,0.04,No,No
+2377-4-2015,Consumer use,"Scope 1, 2, & 3",Downstream,77.08,No,No
+2377-4-2015,Distribution,"Scope 1, 2, & 3",Downstream,1.13,Yes,No
+2377-4-2015,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.24,No,Yes
+2688-1-2014,Manufacturing,Scope 3,Operations,23.3,No,No
+2688-1-2014,Assembly,Scope 2,Operations,5.3,No,No
+2688-1-2014,Assembly,Scope 1,Operations,0.6,No,No
+2688-1-2014,Energy/Fuel,Scope 3,Operations,0.5,No,No
+2688-1-2014,Consumer use,Scope 3,Downstream,3.9,No,No
+2688-1-2014,End of life/Final disposal,Scope 3,Downstream,3.6,No,Yes
+2688-1-2014,Transportation,Scope 3,Downstream,1.3,Yes,No
+2688-2-2014,Manufacturing,Scope 3,Operations,38.1,No,No
+2688-2-2014,Assembly,Scope 2,Operations,5.3,No,No
+2688-2-2014,Assembly,Scope 1,Operations,0.6,No,No
+2688-2-2014,Energy/Fuel,BLANK,Operations,0.5,No,No
+2688-2-2014,End of life/Final disposal,BLANK,Downstream,6.5,No,Yes
+2688-2-2014,Consumer use,Scope 3,Downstream,4.7,No,No
+2688-2-2014,Transportation,Scope 3,Downstream,1.3,Yes,No
+2688-3-2014,Manufacturing,Scope 3,Operations,5.7,No,No
+2688-3-2014,Assembly,Scope 2,Operations,5.4,No,No
+2688-3-2014,Assembly,Scope 1,Operations,0.4,No,No
+2688-3-2014,Energy/Fuel,Scope 3,Operations,0.4,No,No
+2688-3-2014,Transportation,Scope 3,Downstream,1.2,Yes,No
+2688-3-2014,End of life/Final disposal,Scope 3,Downstream,0.3,No,Yes
+2688-3-2014,Consumer use,Scope 3,Downstream,0.1,No,No
+2688-4-2014,Manufacturing,Scope 3,Operations,9.1,No,No
+2688-4-2014,Assembly,Scope 2,Operations,5.4,No,No
+2688-4-2014,Assembly,Scope 1,Operations,0.4,No,No
+2688-4-2014,Energy/Fuel,Scope 3,Operations,0.4,No,No
+2688-4-2014,Transportation,Scope 3,Downstream,3.5,Yes,No
+2688-4-2014,End of life/Final disposal,Scope 3,Downstream,0.4,No,Yes
+2688-4-2014,Consumer use,Scope 3,Downstream,0.1,No,No
+28843-1-2013,Manufacture of supplier components,N/a (field not yet included in 2013 reporting),Upstream,12.31,No,No
+28843-1-2013,Manufacture of AVK finished components,N/a (field not yet included in 2013 reporting),Operations,14.01,No,No
+28843-1-2013,Assembly and finishing of product,N/a (field not yet included in 2013 reporting),Operations,3.76,No,No
+28843-1-2013,Delivery of components,N/a (field not yet included in 2013 reporting),Downstream,1.18,Yes,No
+28843-1-2014,Material acquisition,Scope 3,Upstream,29.42,No,No
+28843-1-2014,Assembly,Scope 2,Operations,0.04,No,No
+28843-1-2014,Transportation,Scope 3,Downstream,0.6,Yes,No
+28843-1-2014,Waste,Scope 3,Downstream,0.07,No,Yes
+28843-2-2013,Manufacture of supplier components,N/a (field not yet included in 2013 reporting),Upstream,42.22,No,No
+28843-2-2013,Manufacture of AVK finished components,N/a (field not yet included in 2013 reporting),Operations,31.55,No,No
+28843-2-2013,Assembly and finishing of product,N/a (field not yet included in 2013 reporting),Operations,12.26,No,No
+28843-2-2013,Delivery of components,N/a (field not yet included in 2013 reporting),Downstream,7.28,Yes,No
+28843-3-2013,Manufacture of supplier components,N/a (field not yet included in 2013 reporting),Upstream,31.77,No,No
+28843-3-2013,Assembly and finishing of product,N/a (field not yet included in 2013 reporting),Operations,6.46,No,No
+28843-3-2013,Manufacture of AVK finished components,N/a (field not yet included in 2013 reporting),Operations,1.07,No,No
+28843-3-2013,Delivery of components,N/a (field not yet included in 2013 reporting),Downstream,4.78,Yes,No
+28843-3-2014,Material acquisition,Scope 3,Upstream,32.73,No,No
+28843-3-2014,Assembly,Scope 2,Operations,0.03,No,No
+28843-3-2014,Waste,Scope 3,Downstream,0.07,No,Yes
+28843-3-2014,Transportation,Scope 3,Downstream,0.07,Yes,No
+28843-4-2014,Material acquisition,Scope 3,Upstream,61.34,No,No
+28843-4-2014,Assembly,Scope 2,Operations,0.03,No,No
+28843-4-2014,Transportation,Scope 3,Downstream,1.25,Yes,No
+28843-4-2014,Waste,Scope 3,Downstream,0.07,No,Yes
+28843-5-2014,Material acquisition,Scope 3,Upstream,56.43,No,No
+28843-5-2014,Assembly,Scope 2,Operations,0.01,No,No
+28843-5-2014,Transportation,Scope 3,Downstream,0.63,Yes,No
+28843-5-2014,Waste,Scope 3,Downstream,0.07,No,Yes
+28933-1-2013,Sourcing & Extract,N/a (field not yet included in 2013 reporting),Upstream,12.1,No,No
+28933-1-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,1.4,No,No
+28933-1-2013,Product Use,N/a (field not yet included in 2013 reporting),Downstream,0.5,No,No
+28933-1-2013,Delivery and Installation,N/a (field not yet included in 2013 reporting),Downstream,0.5,No,No
+28933-1-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,0.2,No,Yes
+2908-1-2013,Raw material production stage,N/a (field not yet included in 2013 reporting),Upstream,270,No,No
+2908-1-2013,Manufacturing stage,N/a (field not yet included in 2013 reporting),Operations,13,No,No
+2908-1-2013,Usage stage,N/a (field not yet included in 2013 reporting),Downstream,1993,No,No
+2908-1-2013,Waste/recycling stage,N/a (field not yet included in 2013 reporting),Downstream,56,No,Yes
+2908-1-2013,Distribution stage,N/a (field not yet included in 2013 reporting),Downstream,11,Yes,No
+2908-1-2014,Material acquisition,Scope 3,Upstream,270,No,No
+2908-1-2014,Manufacturing,Scope 1 & 2,Operations,13,No,No
+2908-1-2014,Consumer use,Scope 3,Downstream,1993,No,No
+2908-1-2014,Waste,Scope 3,Downstream,56,No,Yes
+2908-1-2014,Distribution,Scope 3,Downstream,11,Yes,No
+31487-1-2013,Upstream Transport,N/a (field not yet included in 2013 reporting),Upstream,0.02,Yes,No
+31487-1-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,27.63,No,No
+31487-1-2013,Use Phase,N/a (field not yet included in 2013 reporting),Downstream,1.28,No,No
+31487-1-2013,Downstream Transport,N/a (field not yet included in 2013 reporting),Downstream,0.99,Yes,No
+3193-1-2013,Materials input in LCD and LCM process,N/a (field not yet included in 2013 reporting),Upstream,87,No,No
+3193-1-2013,Manufacturing process,N/a (field not yet included in 2013 reporting),Operations,58,No,No
+32738-1-2013,Manufacture of materials,N/a (field not yet included in 2013 reporting),Upstream,892.4,No,No
+32738-1-2013,Manufacture of product,N/a (field not yet included in 2013 reporting),Operations,133.3,No,No
+32738-1-2013,Usage (5 years),N/a (field not yet included in 2013 reporting),Downstream,1810.2,No,No
+32738-1-2013,Disposal,N/a (field not yet included in 2013 reporting),Downstream,286.5,No,Yes
+32738-1-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,17.5,Yes,No
+32738-1-2014,Material acquisition,Scope 3,Upstream,864.7,No,No
+32738-1-2014,Manufacturing,Scope 1 & 2,Operations,138.7,No,No
+32738-1-2014,Operation of premises,Scope 3,Downstream,1170.5,No,No
+32738-1-2014,End of life/Final disposal,Scope 3,Downstream,211.6,No,Yes
+32738-1-2014,Distribution,Scope 3,Downstream,17.8,Yes,No
+32738-1-2014,Recycling,Scope 3,Downstream,-469.6,No,Yes
+32738-1-2015,Material acquisition,Scope 3,Upstream,966.9,No,No
+32738-1-2015,Manufacturing,Scope 1 & 2,Operations,151.4,No,No
+32738-1-2015,Operation of premises,Scope 3,Downstream,898.8,No,No
+32738-1-2015,End of life/Final disposal,Scope 3,Downstream,232.9,No,Yes
+32738-1-2015,Distribution,Scope 3,Downstream,18.2,Yes,No
+32738-1-2015,Recycling,Scope 3,Downstream,-502.8,No,Yes
+3329-2-2013,Materials and Manufacturing,N/a (field not yet included in 2013 reporting),Operations,75,No,No
+3329-2-2013,Use at Customer Site,N/a (field not yet included in 2013 reporting),Downstream,204.6,No,No
+3329-2-2013,Transport,N/a (field not yet included in 2013 reporting),Downstream,0.4,Yes,No
+3329-2-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,-2.5,No,Yes
+3329-3-2013,Materials and Manufacturing,N/a (field not yet included in 2013 reporting),Operations,112,No,No
+3329-3-2013,Use at Customer Site,N/a (field not yet included in 2013 reporting),Downstream,1315,No,No
+3329-3-2013,Transport,N/a (field not yet included in 2013 reporting),Downstream,47,Yes,No
+3329-3-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,-1.1,No,Yes
+33496-2-2014,Manufacturing,Scope 1 & 2,Operations,132,No,No
+33496-2-2014,Transportation,Scope 1,Downstream,32,Yes,No
+33496-2-2015,Manufacturing,Scope 1 & 2,Operations,131,No,No
+33496-2-2015,Transportation,Scope 1,Downstream,47,Yes,No
+3435-1-2016,Material acquisition,Scope 3,Upstream,8478,No,No
+3435-1-2016,Energy/Fuel,Scope 1,Operations,9093,No,No
+3435-1-2016,Production,Scope 2,Operations,6474,No,No
+3435-1-2016,Processing,Scope 1,Operations,686,No,No
+3435-1-2016,Transportation,Scope 3,Downstream,102,Yes,No
+3435-1-2016,Other:,Scope 3,Downstream,6,No,No
+3435-2-2016,Material acquisition,Scope 3,Upstream,4983,No,No
+3435-2-2016,Production,Scope 2,Operations,9028,No,No
+3435-2-2016,Energy/Fuel,Scope 1,Operations,6219,No,No
+3435-2-2016,Processing,Scope 1,Operations,793,No,No
+3435-2-2016,Transportation,Scope 3,Downstream,96,Yes,No
+3435-2-2016,Other:,Scope 3,Downstream,7,No,No
+3435-3-2016,Material acquisition,Scope 3,Upstream,3017,No,No
+3435-3-2016,Production,Scope 2,Operations,12694,No,No
+3435-3-2016,Energy/Fuel,Scope 1,Operations,1412,No,No
+3435-3-2016,Processing,Scope 1,Operations,883,No,No
+3435-3-2016,Transportation,Scope 3,Downstream,34,Yes,No
+3435-3-2016,Other:,Scope 3,Downstream,3,No,No
+3435-4-2016,Material acquisition,Scope 3,Upstream,8022,No,No
+3435-4-2016,Energy/Fuel,Scope 1,Operations,9943,No,No
+3435-4-2016,Production,Scope 2,Operations,8033,No,No
+3435-4-2016,Processing,Scope 1,Operations,767,No,No
+3435-4-2016,Transportation,Scope 3,Downstream,68,Yes,No
+3435-4-2016,Other:,Scope 3,Downstream,3,No,No
+3435-5-2016,Material acquisition,Scope 3,Upstream,877,No,No
+3435-5-2016,Energy/Fuel,Scope 1,Operations,1678,No,No
+3435-5-2016,Production,Scope 2,Operations,966,No,No
+3435-5-2016,Processing,Scope 1,Operations,292,No,No
+3435-5-2016,Transportation,Scope 3,Downstream,43,Yes,No
+3435-5-2016,Other:,Scope 3,Downstream,3,No,No
+34386-1-2016,Energy/Fuel,Scope 1,Operations,6.073,No,No
+34386-1-2016,Transportation,Scope 3,Downstream,10.811,Yes,No
+34386-1-2016,Other: Handling,Scope 3,Downstream,0.0000632,No,No
+3448-7-2016,Production,"Scope 1, 2, & 3",Operations,0.0013,No,No
+3448-7-2016,Transportation,"Scope 1, 2, & 3",Downstream,0.0025,Yes,No
+35311-10-2016,Cradle to gate,"Scope 1, 2, & 3",Operations,7.28,No,No
+35311-10-2016,Consumer use,Scope 3,Downstream,2.11,No,No
+35311-10-2016,End of life/Final disposal,Scope 3,Downstream,0.27,No,Yes
+35311-10-2016,Other: Delivery & Installation,Scope 3,Downstream,0.12,No,No
+35311-11-2016,Cradle to gate,"Scope 1, 2, & 3",Operations,7.27,No,No
+35311-11-2016,Consumer use,Scope 3,Downstream,3.15,No,No
+35311-11-2016,Other: Delivery & Installation,Scope 3,Downstream,0.37,No,No
+35311-11-2016,End of life/Final disposal,Scope 3,Downstream,0.27,No,Yes
+35311-1-2013,Manufacturing (including raw material extraction and Interface manufacturing process),N/a (field not yet included in 2013 reporting),Operations,9.2,No,No
+35311-1-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,3.57,No,No
+35311-1-2013,Installation,N/a (field not yet included in 2013 reporting),Downstream,0.36,No,No
+35311-1-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,0.26,No,Yes
+35311-1-2014,Manufacturing,"Scope 1, 2, & 3",Operations,8.61,No,No
+35311-1-2014,Consumer use,"Scope 1, 2, & 3",Downstream,3.35,No,No
+35311-1-2014,Other: Installation,"Scope 1, 2, & 3",Downstream,0.36,No,No
+35311-1-2014,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.27,No,Yes
+35311-12-2016,Cradle to gate,"Scope 1, 2, & 3",Operations,12.19,No,No
+35311-12-2016,Consumer use,Scope 3,Downstream,3.38,No,No
+35311-12-2016,Other: Delivery & Installation,Scope 3,Downstream,1.05,No,No
+35311-12-2016,End of life/Final disposal,Scope 3,Downstream,0.48,No,Yes
+35311-2-2013,Manufacturing (including raw material extraction and Interface manufacturing process),N/a (field not yet included in 2013 reporting),Operations,6.65,No,No
+35311-2-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,1.9,No,No
+35311-2-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,1.34,No,Yes
+35311-2-2013,Installation,N/a (field not yet included in 2013 reporting),Downstream,0.21,No,No
+35311-2-2015,Production,Scope 3,Upstream,7.3,No,No
+35311-2-2015,Energy/Fuel,Scope 1 & 2,Operations,0.22,No,No
+35311-2-2015,Consumer use,Scope 3,Downstream,1.84,No,No
+35311-2-2015,End of life/Final disposal,Scope 3,Downstream,1.4,No,Yes
+35311-2-2015,Other: Installation,Scope 3,Downstream,0.22,No,No
+35311-3-2013,Manufacturing (including raw material extraction and Interface manufacturing process),N/a (field not yet included in 2013 reporting),Operations,11.27,No,No
+35311-3-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,3.17,No,No
+35311-3-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,0.32,No,Yes
+35311-3-2013,Installation,N/a (field not yet included in 2013 reporting),Downstream,0.23,No,No
+35311-3-2014,Manufacturing,"Scope 1, 2, & 3",Operations,10.22,No,No
+35311-3-2014,Consumer use,"Scope 1, 2, & 3",Downstream,3.37,No,No
+35311-3-2014,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,0.29,No,Yes
+35311-3-2014,Other: Installation,"Scope 1, 2, & 3",Downstream,0.21,No,No
+35311-3-2016,Cradle to gate,"Scope 1, 2, & 3",Operations,8.11,No,No
+35311-3-2016,Consumer use,Scope 3,Downstream,2.68,No,No
+35311-3-2016,End of life/Final disposal,Scope 3,Downstream,0.3,No,Yes
+35311-3-2016,Other: Delivery & Installation,Scope 3,Downstream,0.21,No,No
+35311-4-2013,Manufacturing (including raw material extraction and Interface manufacturing process),N/a (field not yet included in 2013 reporting),Operations,12.05,No,No
+35311-4-2013,Use,N/a (field not yet included in 2013 reporting),Downstream,4.57,No,No
+35311-4-2013,End of Life,N/a (field not yet included in 2013 reporting),Downstream,0.29,No,Yes
+35311-4-2013,Installation,N/a (field not yet included in 2013 reporting),Downstream,0.24,No,No
+35311-4-2015,Production,Scope 3,Upstream,8.55,No,No
+35311-4-2015,Energy/Fuel,Scope 1 & 2,Operations,2.45,No,No
+35311-4-2015,Consumer use,Scope 3,Downstream,4.39,No,No
+35311-4-2015,End of life/Final disposal,Scope 3,Downstream,0.33,No,Yes
+35311-4-2015,Other: Installation,Scope 3,Downstream,0.21,No,No
+35311-4-2016,Cradle to gate,"Scope 1, 2, & 3",Operations,8.04,No,No
+35311-4-2016,Consumer use,Scope 3,Downstream,4.27,No,No
+35311-4-2016,Other: Delivery & Installation,Scope 3,Downstream,0.28,No,No
+35311-4-2016,End of life/Final disposal,Scope 3,Downstream,0.25,No,Yes
+35311-5-2014,Manufacturing,"Scope 1, 2, & 3",Operations,6.62,No,No
+35311-5-2014,Consumer use,"Scope 1, 2, & 3",Downstream,1.88,No,No
+35311-5-2014,End of life/Final disposal,"Scope 1, 2, & 3",Downstream,1.38,No,Yes
+35311-5-2014,Other: Installation,"Scope 1, 2, & 3",Downstream,0.22,No,No
+35311-5-2016,Cradle to gate,"Scope 1, 2, & 3",Operations,6.31,No,No
+35311-5-2016,Consumer use,Scope 3,Downstream,2.68,No,No
+35311-5-2016,End of life/Final disposal,Scope 3,Downstream,1.22,No,Yes
+35311-5-2016,Other: Delivery & Installation,Scope 3,Downstream,0.2,No,No
+35311-6-2015,Production,Scope 3,Upstream,8.87,No,No
+35311-6-2015,Energy/Fuel,Scope 1 & 2,Operations,0.95,No,No
+35311-6-2015,Consumer use,Scope 3,Downstream,3.3,No,No
+35311-6-2015,End of life/Final disposal,Scope 3,Downstream,0.3,No,Yes
+35311-6-2015,Other: Installation,Scope 3,Downstream,0.21,No,No
+35311-7-2015,Production,Scope 3,Upstream,8.33,No,No
+35311-7-2015,Energy/Fuel,Scope 1 & 2,Operations,0.6,No,No
+35311-7-2015,Consumer use,Scope 3,Downstream,3.32,No,No
+35311-7-2015,Other: Installation,Scope 3,Downstream,0.35,No,No
+35311-7-2015,End of life/Final disposal,Scope 3,Downstream,0.3,No,Yes
+35311-7-2016,Cradle to gate,"Scope 1, 2, & 3",Operations,7.49,No,No
+35311-7-2016,Consumer use,Scope 3,Downstream,3.15,No,No
+35311-7-2016,Other: Delivery & Installation,Scope 3,Downstream,0.35,No,No
+35311-7-2016,End of life/Final disposal,Scope 3,Downstream,0.27,No,Yes
+35311-8-2015,Production,Scope 3,Upstream,9.41,No,No
+35311-8-2015,Energy/Fuel,Scope 1 & 2,Operations,1.2,No,No
+35311-8-2015,Consumer use,Scope 3,Downstream,4.37,No,No
+35311-8-2015,End of life/Final disposal,Scope 3,Downstream,0.28,No,Yes
+35311-8-2015,Other: Installation,Scope 3,Downstream,0.19,No,No
+35311-8-2016,Cradle to gate,"Scope 1, 2, & 3",Operations,8.39,No,No
+35311-8-2016,Consumer use,Scope 3,Downstream,4.37,No,No
+35311-8-2016,End of life/Final disposal,Scope 3,Downstream,2.29,No,Yes
+35311-8-2016,Other: Delivery & Installation,Scope 3,Downstream,0.36,No,No
+3565-10-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.2455,No,No
+3565-10-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0054,No,No
+3565-10-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0116,No,No
+3565-10-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0564,No,No
+3565-10-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0146,Yes,No
+3565-10-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0058,No,No
+3565-11-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.1069,No,No
+3565-11-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0077,No,No
+3565-11-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0271,No,No
+3565-11-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0607,No,No
+3565-11-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0158,Yes,No
+3565-11-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0018,No,No
+3565-1-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.096,No,No
+3565-1-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0226,No,No
+3565-1-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0119,No,No
+3565-1-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0289,No,No
+3565-1-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0097,Yes,No
+3565-1-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0009,No,No
+3565-12-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.1688,No,No
+3565-12-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.032,No,No
+3565-12-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0864,No,No
+3565-12-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0552,Yes,No
+3565-12-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0368,No,No
+3565-12-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0208,No,No
+3565-13-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.2324,No,No
+3565-13-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0213,No,No
+3565-13-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.015,No,No
+3565-13-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0588,No,No
+3565-13-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0168,Yes,No
+3565-13-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0056,No,No
+3565-14-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.1068,No,No
+3565-14-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0295,No,No
+3565-14-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0274,No,No
+3565-14-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0588,No,No
+3565-14-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0156,Yes,No
+3565-14-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0017,No,No
+3565-3-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.1034,No,No
+3565-3-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0336,No,No
+3565-3-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0264,No,No
+3565-3-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0588,No,No
+3565-3-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0158,Yes,No
+3565-3-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0016,No,No
+3565-4-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.1645,No,No
+3565-4-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.14,No,No
+3565-4-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0855,No,No
+3565-4-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.055,Yes,No
+3565-4-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.035,No,No
+3565-4-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0195,No,No
+3565-5-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.0947,No,No
+3565-5-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0051,No,No
+3565-5-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0115,No,No
+3565-5-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0288,No,No
+3565-5-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0093,Yes,No
+3565-5-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0008,No,No
+3565-6-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.2434,No,No
+3565-6-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0058,No,No
+3565-6-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0119,No,No
+3565-6-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0578,No,No
+3565-6-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0149,Yes,No
+3565-6-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0058,No,No
+3565-7-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.1067,No,No
+3565-7-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0081,No,No
+3565-7-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0268,No,No
+3565-7-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0605,No,No
+3565-7-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0158,Yes,No
+3565-7-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0015,No,No
+3565-8-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.168,No,No
+3565-8-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0034,No,No
+3565-8-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.086,No,No
+3565-8-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0548,Yes,No
+3565-8-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0364,No,No
+3565-8-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0208,No,No
+3565-9-2013,Packaging,N/a (field not yet included in 2013 reporting),Upstream,0.0729,No,No
+3565-9-2013,Ingredients,N/a (field not yet included in 2013 reporting),Upstream,0.0052,No,No
+3565-9-2013,Manufacturing,N/a (field not yet included in 2013 reporting),Operations,0.0185,No,No
+3565-9-2013,Refrigeration,N/a (field not yet included in 2013 reporting),Downstream,0.0414,No,No
+3565-9-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,0.0108,Yes,No
+3565-9-2013,Consumer Use,N/a (field not yet included in 2013 reporting),Downstream,0.0012,No,No
+3652-1-2013,material,N/a (field not yet included in 2013 reporting),Upstream,95.1,No,No
+3652-1-2013,manufacture,N/a (field not yet included in 2013 reporting),Operations,1.14,No,No
+3652-1-2013,use,N/a (field not yet included in 2013 reporting),Downstream,58.33,No,No
+3652-1-2013,disposal,N/a (field not yet included in 2013 reporting),Downstream,2,No,Yes
+3652-1-2013,transportation,N/a (field not yet included in 2013 reporting),Downstream,0.38,Yes,No
+3652-2-2013,material,N/a (field not yet included in 2013 reporting),Upstream,39.54,No,No
+3652-2-2013,manufacture,N/a (field not yet included in 2013 reporting),Operations,2.64,No,No
+3652-2-2013,use,N/a (field not yet included in 2013 reporting),Downstream,65.91,No,No
+3652-2-2013,transportation,N/a (field not yet included in 2013 reporting),Downstream,18.46,Yes,No
+3652-2-2013,disposal,N/a (field not yet included in 2013 reporting),Downstream,5.27,No,Yes
+3768-1-2016,Production,Scope 1,Operations,0.0035,No,No
+3768-1-2016,Energy/Fuel,Scope 2,Operations,0.0017,No,No
+3768-1-2016,Consumer use,Scope 3,Downstream,0.0545,No,No
+37977-1-2016,Cradle to gate,Scope 1 & 2,Operations,827,No,No
+37977-1-2016,Manufacturing,Scope 1 & 2,Operations,152,No,No
+37977-1-2016,Consumer use,Scope 3,Downstream,3627,No,No
+37977-1-2016,Distribution,Scope 3,Downstream,41.7,Yes,No
+37977-1-2016,End of life/Final disposal,Scope 3,Downstream,-179,No,Yes
+38359-10-2016,Other: Raw materials production,"Scope 1, 2, & 3",Upstream,0.315,No,No
+38359-10-2016,Packaging,"Scope 1, 2, & 3",Upstream,0.148,No,No
+38359-10-2016,Production,"Scope 1, 2, & 3",Operations,0.078,No,No
+38359-10-2016,Transportation,"Scope 1, 2, & 3",Downstream,0.007,Yes,No
+38359-1-2014,Other: Raw material production,"Scope 1, 2, & 3",Upstream,0.615,No,No
+38359-1-2014,Packaging,"Scope 1, 2, & 3",Upstream,0.084,No,No
+38359-1-2014,Production,"Scope 1, 2, & 3",Operations,0.285,No,No
+38359-1-2014,Other: Milling,"Scope 1, 2, & 3",Operations,0.195,No,No
+38359-1-2014,Transportation,"Scope 1, 2, & 3",Downstream,0.1,Yes,No
+38359-1-2015,Other: Raw material production,"Scope 1, 2, & 3",Upstream,0.624,No,No
+38359-1-2015,Packaging,"Scope 1, 2, & 3",Upstream,0.126,No,No
+38359-1-2015,Production,"Scope 1, 2, & 3",Operations,0.27,No,No
+38359-1-2015,Other: Milling,"Scope 1, 2, & 3",Operations,0.198,No,No
+38359-1-2015,Transportation,"Scope 1, 2, & 3",Downstream,0.1,Yes,No
+38359-2-2014,Other: raw material production,"Scope 1, 2, & 3",Upstream,0.557,No,No
+38359-2-2014,Packaging,"Scope 1, 2, & 3",Upstream,0.1,No,No
+38359-2-2014,Production,"Scope 1, 2, & 3",Operations,0.199,No,No
+38359-2-2014,Other: milling,"Scope 1, 2, & 3",Operations,0.051,No,No
+38359-2-2014,Transportation,"Scope 1, 2, & 3",Downstream,0.04,Yes,No
+38359-2-2015,Other: Raw material production,"Scope 1, 2, & 3",Upstream,0.463,No,No
+38359-2-2015,Packaging,"Scope 1, 2, & 3",Upstream,0.105,No,No
+38359-2-2015,Production,"Scope 1, 2, & 3",Operations,0.194,No,No
+38359-2-2015,Other: milling,"Scope 1, 2, & 3",Operations,0.048,No,No
+38359-2-2015,Transportation,"Scope 1, 2, & 3",Downstream,0.037,Yes,No
+38359-3-2014,Other: raw material production,"Scope 1, 2, & 3",Upstream,0.557,No,No
+38359-3-2014,Packaging,"Scope 1, 2, & 3",Upstream,0.1,No,No
+38359-3-2014,Production,"Scope 1, 2, & 3",Operations,0.199,No,No
+38359-3-2014,Other: milling,"Scope 1, 2, & 3",Operations,0.051,No,No
+38359-3-2014,Transportation,"Scope 1, 2, & 3",Downstream,0.12,Yes,No
+38359-3-2015,Other: Raw material production,"Scope 1, 2, & 3",Upstream,0.463,No,No
+38359-3-2015,Packaging,"Scope 1, 2, & 3",Upstream,0.105,No,No
+38359-3-2015,Production,"Scope 1, 2, & 3",Operations,0.194,No,No
+38359-3-2015,Other: milling,"Scope 1, 2, & 3",Operations,0.048,No,No
+38359-3-2015,Transportation,"Scope 1, 2, & 3",Downstream,0.071,Yes,No
+38359-4-2014,Other: raw material production,"Scope 1, 2, & 3",Upstream,0.916,No,No
+38359-4-2014,Packaging,"Scope 1, 2, & 3",Upstream,0.1,No,No
+38359-4-2014,Production,"Scope 1, 2, & 3",Operations,0.324,No,No
+38359-4-2014,Other: milling,"Scope 1, 2, & 3",Operations,0.096,No,No
+38359-4-2014,Transportation,"Scope 1, 2, & 3",Downstream,0.234,Yes,No
+38359-4-2015,Other: Raw material production,"Scope 1, 2, & 3",Upstream,0.908,No,No
+38359-4-2015,Packaging,"Scope 1, 2, & 3",Upstream,0.105,No,No
+38359-4-2015,Production,"Scope 1, 2, & 3",Operations,0.351,No,No
+38359-4-2015,Other: Milling,"Scope 1, 2, & 3",Operations,0.102,No,No
+38359-4-2015,Transportation,"Scope 1, 2, & 3",Downstream,0.234,Yes,No
+38359-5-2014,Other: raw material production,"Scope 1, 2, & 3",Upstream,0.53,No,No
+38359-5-2014,Packaging,"Scope 1, 2, & 3",Upstream,0.1,No,No
+38359-5-2014,Production,"Scope 1, 2, & 3",Operations,0.181,No,No
+38359-5-2014,Other: milling,"Scope 1, 2, & 3",Operations,0.037,No,No
+38359-5-2014,Transportation,"Scope 1, 2, & 3",Downstream,0.078,Yes,No
+38359-5-2015,Other: Raw material production,"Scope 1, 2, & 3",Upstream,0.596,No,No
+38359-5-2015,Packaging,"Scope 1, 2, & 3",Upstream,0.105,No,No
+38359-5-2015,Production,"Scope 1, 2, & 3",Operations,0.137,No,No
+38359-5-2015,Other: milling process,"Scope 1, 2, & 3",Operations,0.019,No,No
+38359-5-2015,Transportation,"Scope 1, 2, & 3",Downstream,0.078,Yes,No
+38359-8-2015,Other: raw material production,"Scope 1, 2, & 3",Upstream,0.709,No,No
+38359-8-2015,Packaging,"Scope 1, 2, & 3",Upstream,0.102,No,No
+38359-8-2015,Production,"Scope 1, 2, & 3",Operations,0.199,No,No
+38359-8-2015,Transportation,BLANK,Downstream,0.226,Yes,No
+38459-1-2013,fishing - longline albacore,N/a (field not yet included in 2013 reporting),Upstream,0.45,No,No
+38459-1-2013,packaging,N/a (field not yet included in 2013 reporting),Upstream,0.1,No,No
+38459-1-2013,processing - loining and canning,N/a (field not yet included in 2013 reporting),Operations,0.1,No,No
+38459-1-2013,transportaiton (shipping and trucking),N/a (field not yet included in 2013 reporting),Downstream,0.03,Yes,No
+38459-2-2013,fishing - purse seine,N/a (field not yet included in 2013 reporting),Upstream,0.23,No,No
+38459-2-2013,packaging,N/a (field not yet included in 2013 reporting),Upstream,0.1,No,No
+38459-2-2013,processing - loining and canning,N/a (field not yet included in 2013 reporting),Operations,0.02,No,No
+38459-2-2013,transportation (shipping and trucking),N/a (field not yet included in 2013 reporting),Downstream,0.04,Yes,No
+394-1-2015,Material acquisition,"Scope 1, 2, & 3",Upstream,42,No,No
+394-1-2015,Manufacturing,"Scope 1, 2, & 3",Operations,80,No,No
+394-1-2015,Distribution,"Scope 1, 2, & 3",Downstream,3.7,Yes,No
+394-1-2017,Material acquisition,Scope 3,Upstream,42,No,No
+394-1-2017,Production,Scope 1 & 2,Operations,80,No,No
+394-1-2017,Transportation,Scope 3,Downstream,3.7,Yes,No
+394-12-2017,Material acquisition,Scope 3,Upstream,120,No,No
+394-12-2017,Production,Scope 1 & 2,Operations,179,No,No
+394-12-2017,Transportation,Scope 3,Downstream,1.64,Yes,No
+394-14-2017,Material acquisition,Scope 3,Upstream,118,No,No
+394-14-2017,Production,Scope 1 & 2,Operations,193,No,No
+394-14-2017,Transportation,Scope 3,Downstream,8.33,Yes,No
+394-15-2017,Material acquisition,Scope 3,Upstream,121,No,No
+394-15-2017,Production,Scope 1 & 2,Operations,306,No,No
+394-15-2017,Transportation,Scope 3,Downstream,6.47,Yes,No
+394-16-2017,Material acquisition,Scope 3,Upstream,108,No,No
+394-16-2017,Production,Scope 1 & 2,Operations,471,No,No
+394-16-2017,Transportation,Scope 3,Downstream,6.47,Yes,No
+394-17-2017,Material acquisition,Scope 3,Upstream,79.3,No,No
+394-17-2017,Production,Scope 1 & 2,Operations,307,No,No
+394-17-2017,Transportation,Scope 3,Downstream,6.47,Yes,No
+394-20-2017,Material acquisition,Scope 3,Upstream,25.2,No,No
+394-20-2017,Production,Scope 1 & 2,Operations,30.7,No,No
+394-20-2017,Transportation,Scope 3,Downstream,1.5,Yes,No
+394-9-2017,Material acquisition,Scope 3,Upstream,66.4,No,No
+394-9-2017,Production,Scope 1 & 2,Operations,87.8,No,No
+394-9-2017,Transportation,Scope 3,Downstream,0.9,Yes,No
+4226-1-2013,Raw material and parts manufacturing,N/a (field not yet included in 2013 reporting),Upstream,138,No,No
+4226-1-2013,Products manufacturing,N/a (field not yet included in 2013 reporting),Operations,23,No,No
+4226-1-2013,Emissions in use,N/a (field not yet included in 2013 reporting),Downstream,3481,No,No
+4226-1-2013,Logistics,N/a (field not yet included in 2013 reporting),Downstream,7,Yes,No
+4226-1-2013,Disposal and Recycling,N/a (field not yet included in 2013 reporting),Downstream,5,No,Yes
+4226-1-2014,Material acquisition,Scope 3,Upstream,138,No,No
+4226-1-2014,Production,Scope 1 & 2,Operations,23,No,No
+4226-1-2014,Consumer use,Scope 3,Downstream,3333,No,No
+4226-1-2014,Transportation,Scope 3,Downstream,7,Yes,No
+4226-1-2014,Recycling,Scope 3,Downstream,5,No,Yes
+4226-1-2015,Material acquisition,Scope 3,Upstream,138,No,No
+4226-1-2015,Production,Scope 1 & 2,Operations,23,No,No
+4226-1-2015,Consumer use,Scope 3,Downstream,3333,No,No
+4226-1-2015,Transportation,Scope 3,Downstream,7,Yes,No
+4226-1-2015,Recycling,Scope 3,Downstream,5,No,Yes
+4226-1-2017,Material acquisition,Scope 3,Upstream,167,No,No
+4226-1-2017,Production,Scope 1 & 2,Operations,23,No,No
+4226-1-2017,Consumer use,Scope 3,Downstream,3649,No,No
+4226-1-2017,Recycling,Scope 3,Downstream,372,No,Yes
+4226-1-2017,Transportation,Scope 3,Downstream,7,Yes,No
+4226-2-2017,Material acquisition,Scope 3,Upstream,502,No,No
+4226-2-2017,Production,Scope 1 & 2,Operations,68,No,No
+4226-2-2017,Consumer use,Scope 3,Downstream,34803,No,No
+4226-2-2017,Recycling,Scope 3,Downstream,15670,No,Yes
+4226-2-2017,Transportation,Scope 3,Downstream,25,Yes,No
+4226-3-2017,Material acquisition,Scope 3,Upstream,277,No,No
+4226-3-2017,Production,Scope 1 & 2,Operations,38,No,No
+4226-3-2017,Consumer use,Scope 3,Downstream,33505,No,No
+4226-3-2017,Recycling,Scope 3,Downstream,5819,No,Yes
+4226-3-2017,Transportation,Scope 3,Downstream,14,Yes,No
+4235-25-2016,Assembly,"Scope 1, 2, & 3",Operations,9200,No,No
+4235-25-2016,Consumer use,Scope 3,Downstream,28500,No,No
+4235-25-2016,Recycling,Scope 3,Downstream,400,No,Yes
+4235-26-2016,Assembly,"Scope 1, 2, & 3",Operations,10900,No,No
+4235-26-2016,Consumer use,Scope 3,Downstream,15200,No,No
+4235-26-2016,Recycling,Scope 3,Downstream,400,No,Yes
+4311-1-2013,Milk (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Upstream,0.773,No,No
+4311-1-2013,Packaging (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Upstream,0.166,No,No
+4311-1-2013,Other raw materials (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Upstream,0.059,No,No
+4311-1-2013,Production (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Operations,0.173,No,No
+4311-1-2013,Retail / home use (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Downstream,0.171,No,No
+4311-1-2013,Logistics (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Downstream,0.153,Yes,No
+4311-1-2013,Packaging and product end of life (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Downstream,0.036,No,Yes
+4311-2-2013,Milk (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Upstream,0.628,No,No
+4311-2-2013,Packaging (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Upstream,0.164,No,No
+4311-2-2013,Other raw materials (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Upstream,0.031,No,No
+4311-2-2013,Production (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Operations,0.118,No,No
+4311-2-2013,Logistics (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Downstream,0.156,Yes,No
+4311-2-2013,Packaging and product end of life (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Downstream,0.113,No,Yes
+4311-2-2013,Retail / home use (in kg CO2e / kg product),N/a (field not yet included in 2013 reporting),Downstream,0.087,No,No
+4311-3-2013,Packaging (in kg CO2-e / kg product),N/a (field not yet included in 2013 reporting),Upstream,0.062,No,No
+4311-3-2013,Ingredients (in kg CO2-e / kg product),N/a (field not yet included in 2013 reporting),Upstream,0,No,No
+4311-3-2013,Production (in kg CO2-e / kg product),N/a (field not yet included in 2013 reporting),Operations,0.03,No,No
+4311-3-2013,Logistics (in kg CO2-e / kg product),N/a (field not yet included in 2013 reporting),Downstream,0.051,Yes,No
+4311-3-2013,Retail / home use (in kg CO2-e / kg product),N/a (field not yet included in 2013 reporting),Downstream,0.031,No,No
+4311-3-2013,End of life (in kg CO2-e / kg product),N/a (field not yet included in 2013 reporting),Downstream,0,No,Yes
+4311-4-2015,Cradle to gate,Scope 3,Upstream,0.0524,No,No
+4311-4-2015,Production,Scope 2,Operations,0.0264,No,No
+4311-4-2015,Production,Scope 1,Operations,0.0022,No,No
+4311-4-2015,Other: Retail and Home storage,Scope 3,Downstream,0.0306,No,No
+4311-4-2015,Distribution,Scope 3,Downstream,0.0218,Yes,No
+4311-4-2015,End of life/Final disposal,Scope 3,Downstream,0.0112,No,Yes
+4311-5-2015,Cradle to gate,Scope 3,Upstream,1.7838,No,No
+4311-5-2015,Production,Scope 2,Operations,0.0736,No,No
+4311-5-2015,Production,Scope 1,Operations,0.0512,No,No
+4311-5-2015,Distribution,Scope 3,Downstream,0.3093,Yes,No
+4311-5-2015,End of life/Final disposal,Scope 3,Downstream,0.0544,No,Yes
+4311-5-2015,Other: Retail and Home storage,Scope 3,Downstream,0.007,No,No
+4311-6-2015,Cradle to gate,Scope 3,Upstream,0.9926,No,No
+4311-6-2015,Production,Scope 1,Operations,0.0509,No,No
+4311-6-2015,Production,Scope 2,Operations,0.0109,No,No
+4311-6-2015,End of life/Final disposal,Scope 3,Downstream,0.0792,No,Yes
+4311-6-2015,Distribution,Scope 3,Downstream,0.0642,Yes,No
+4311-6-2015,Other: Retail and home storage,Scope 3,Downstream,0.0621,No,No
+4311-7-2015,Cradle to gate,Scope 3,Upstream,1.6846,No,No
+4311-7-2015,Production,Scope 2,Operations,0.1101,No,No
+4311-7-2015,Production,Scope 1,Operations,0.0546,No,No
+4311-7-2015,Distribution,Scope 3,Downstream,0.1631,Yes,No
+4311-7-2015,Other: Retail and home storage,Scope 3,Downstream,0.1291,No,No
+4311-7-2015,End of life/Final disposal,Scope 3,Downstream,0.1113,No,Yes
+4416-1-2016,Material acquisition,Scope 3,Upstream,1.48,No,No
+4416-1-2016,Assembly,Scope 1 & 2,Operations,0.28,No,No
+4416-2-2016,Material acquisition,Scope 3,Upstream,7.65,No,No
+4416-2-2016,Assembly,Scope 1 & 2,Operations,0.25,No,No
+4416-3-2016,Material acquisition,Scope 3,Upstream,653.04,No,No
+4416-3-2016,Assembly,Scope 1 & 2,Operations,33.38,No,No
+4416-4-2016,Material acquisition,Scope 3,Upstream,3.8144,No,No
+4416-4-2016,Assembly,Scope 2,Operations,65.6231,No,No
+4433-10-2015,Manufacturing,Scope 3,Operations,235,No,No
+4433-10-2015,Consumer use,Scope 3,Downstream,79,No,No
+4433-10-2015,Transportation,Scope 3,Downstream,33,Yes,No
+4433-10-2015,Recycling,Scope 3,Downstream,1,No,Yes
+4433-11-2015,Manufacturing,Scope 3,Operations,259,No,No
+4433-11-2015,Consumer use,Scope 3,Downstream,110,No,No
+4433-11-2015,Transportation,Scope 3,Downstream,38,Yes,No
+4433-11-2015,Recycling,Scope 3,Downstream,1,No,Yes
+4433-12-2015,Manufacturing,Scope 3,Operations,252,No,No
+4433-12-2015,Consumer use,Scope 3,Downstream,35,No,No
+4433-12-2015,Transportation,Scope 3,Downstream,23,Yes,No
+4433-12-2015,Recycling,Scope 3,Downstream,1,No,Yes
+4433-13-2015,Manufacturing,Scope 3,Operations,215,No,No
+4433-13-2015,Consumer use,Scope 3,Downstream,33,No,No
+4433-13-2015,Transportation,Scope 3,Downstream,27,Yes,No
+4433-13-2015,Recycling,Scope 3,Downstream,1,No,Yes
+4433-14-2015,Manufacturing,Scope 3,Operations,241,No,No
+4433-14-2015,Consumer use,Scope 3,Downstream,211,No,No
+4433-14-2015,Transportation,Scope 3,Downstream,22,Yes,No
+4433-14-2015,Recycling,Scope 3,Downstream,6,No,Yes
+4433-3-2015,Manufacturing,Scope 3,Operations,471,No,No
+4433-3-2015,Assembly,Scope 3,Operations,40,No,No
+4433-3-2015,Consumer use,Scope 3,Downstream,5960,No,No
+4433-3-2015,Recycling,Scope 3,Downstream,-86,No,Yes
+4433-4-2015,Manufacturing,Scope 3,Operations,281,No,No
+4433-4-2015,Consumer use,Scope 3,Downstream,214,No,No
+4433-4-2015,Transportation,Scope 3,Downstream,123,Yes,No
+4433-4-2015,Recycling,Scope 3,Downstream,6,No,Yes
+4433-5-2015,Manufacturing,Scope 3,Operations,262,No,No
+4433-5-2015,Consumer use,BLANK,Downstream,321,No,No
+4433-5-2015,Transportation,Scope 3,Downstream,81,Yes,No
+4433-5-2015,Recycling,Scope 3,Downstream,4,No,Yes
+4433-6-2015,Manufacturing,Scope 3,Operations,217,No,No
+4433-6-2015,Consumer use,Scope 3,Downstream,65,No,No
+4433-6-2015,Transportation,Scope 3,Downstream,30,Yes,No
+4433-6-2015,Recycling,Scope 3,Downstream,1,No,Yes
+4433-7-2015,Manufacturing,Scope 3,Operations,230,No,No
+4433-7-2015,Consumer use,Scope 3,Downstream,44,No,No
+4433-7-2015,Transportation,Scope 3,Downstream,35,Yes,No
+4433-7-2015,Recycling,Scope 3,Downstream,1,No,Yes
+4433-8-2015,Manufacturing,Scope 3,Operations,225,No,No
+4433-8-2015,Consumer use,Scope 3,Downstream,34,No,No
+4433-8-2015,Transportation,Scope 3,Downstream,32,Yes,No
+4433-8-2015,Recycling,Scope 3,Downstream,1,No,Yes
+4433-9-2015,Manufacturing,Scope 3,Operations,246,No,No
+4433-9-2015,Consumer use,Scope 3,Downstream,46,No,No
+4433-9-2015,Transportation,Scope 3,Downstream,38,Yes,No
+4433-9-2015,Recycling,Scope 3,Downstream,1,No,Yes
+462-11-2014,Other: Purchased goods and services,Scope 3,Upstream,2590,No,No
+462-11-2014,Energy/Fuel,Scope 1,Operations,340,No,No
+462-11-2014,Energy/Fuel,Scope 2,Operations,170,No,No
+462-1-2013,Scope 3 emissions from pur´hased goods and services,N/a (field not yet included in 2013 reporting),Upstream,1900,No,No
+462-1-2013,Scope 1,N/a (field not yet included in 2013 reporting),Operations,60,No,No
+462-1-2013,Scope 2,N/a (field not yet included in 2013 reporting),Operations,20,No,No
+462-1-2014,Other: Purchased goods and services,Scope 3,Upstream,1900,No,No
+462-1-2014,Energy/Fuel,Scope 1,Operations,60,No,No
+462-1-2014,Energy/Fuel,Scope 2,Operations,20,No,No
+462-13-2015,Other: Purchased goods and services,Scope 3,Upstream,4300,No,No
+462-13-2015,Energy/Fuel,Scope 2,Operations,400,No,No
+462-13-2015,Energy/Fuel,Scope 1,Operations,10,No,No
+462-2-2013,Scope 3 emissions from purchased goods and services,N/a (field not yet included in 2013 reporting),Upstream,1500,No,No
+462-2-2013,Scope 1,N/a (field not yet included in 2013 reporting),Operations,60,No,No
+462-2-2013,Scope 2,N/a (field not yet included in 2013 reporting),Operations,20,No,No
+462-2-2014,Other: Purchased goods and services,Scope 3,Upstream,1500,No,No
+462-2-2014,Energy/Fuel,Scope 1,Operations,60,No,No
+462-2-2014,Energy/Fuel,Scope 2,Operations,20,No,No
+462-2-2015,Other: Purchased goods and services,Scope 3,Upstream,1500,No,No
+462-2-2015,Energy/Fuel,Scope 1,Operations,55,No,No
+462-2-2015,Energy/Fuel,Scope 2,Operations,25,No,No
+462-3-2013,Scope 3 emissions from purchased goods and services,N/a (field not yet included in 2013 reporting),Upstream,2100,No,No
+462-3-2013,Scope 1,N/a (field not yet included in 2013 reporting),Operations,60,No,No
+462-3-2013,Scope 2,N/a (field not yet included in 2013 reporting),Operations,20,No,No
+462-3-2014,Other: Purchased goods and services,Scope 3,Upstream,2100,No,No
+462-3-2014,Energy/Fuel,Scope 1,Operations,60,No,No
+462-3-2014,Energy/Fuel,Scope 2,Operations,20,No,No
+462-3-2015,Other: Purchased goods and services,Scope 3,Upstream,2100,No,No
+462-3-2015,Energy/Fuel,Scope 1,Operations,55,No,No
+462-3-2015,Energy/Fuel,Scope 2,Operations,25,No,No
+462-4-2013,Scope 3 emissions from purchased goods & services,N/a (field not yet included in 2013 reporting),Upstream,2.1,No,No
+462-4-2013,Scope 3 emissions from upstream transportation & distribution,N/a (field not yet included in 2013 reporting),Upstream,0.02,Yes,No
+462-4-2013,Scope 2,N/a (field not yet included in 2013 reporting),Operations,0.7,No,No
+462-4-2013,Scope 1,N/a (field not yet included in 2013 reporting),Operations,0.2,No,No
+462-4-2014,Other: Purchased goods and services,Scope 3,Upstream,2450,No,No
+462-4-2014,Energy/Fuel,Scope 2,Operations,730,No,No
+462-4-2014,Energy/Fuel,Scope 1,Operations,240,No,No
+462-4-2015,Other: urchased goods and services,Scope 3,Upstream,1930,No,No
+462-4-2015,Energy/Fuel,Scope 1,Operations,370,No,No
+462-4-2015,Energy/Fuel,Scope 2,Operations,280,No,No
+462-5-2013,Scope 3 emissions from purchased goods & services,N/a (field not yet included in 2013 reporting),Upstream,1.1,No,No
+462-5-2013,Scope 3 emissions from upstream transportation & distribution,N/a (field not yet included in 2013 reporting),Upstream,0.008,Yes,No
+462-5-2013,Scope 2,N/a (field not yet included in 2013 reporting),Operations,0.6,No,No
+462-5-2013,Scope 1,N/a (field not yet included in 2013 reporting),Operations,0.5,No,No
+462-5-2014,Other: Purchased goods and services,Scope 3,Upstream,1970,No,No
+462-5-2014,Energy/Fuel,Scope 1,Operations,560,No,No
+462-5-2014,Energy/Fuel,Scope 2,Operations,480,No,No
+462-5-2015,Other: Purchased goods and services,Scope 3,Upstream,1790,No,No
+462-5-2015,Energy/Fuel,Scope 1,Operations,520,No,No
+462-5-2015,Energy/Fuel,Scope 2,Operations,455,No,No
+462-6-2013,Scope 3 emissions from purchased goods & services,N/a (field not yet included in 2013 reporting),Upstream,1.2,No,No
+462-6-2013,Scope 3 emissions from upstream transportation & distribution,N/a (field not yet included in 2013 reporting),Upstream,0.03,Yes,No
+462-6-2013,Scope 2,N/a (field not yet included in 2013 reporting),Operations,0.4,No,No
+462-6-2013,Scope 1,N/a (field not yet included in 2013 reporting),Operations,0.3,No,No
+462-6-2014,Other: Purchased goods and services,Scope 3,Upstream,2580,No,No
+462-6-2014,Energy/Fuel,Scope 1,Operations,480,No,No
+462-6-2014,Energy/Fuel,Scope 2,Operations,340,No,No
+462-6-2015,Other: Purchased goods and services,Scope 3,Upstream,2160,No,No
+462-6-2015,Energy/Fuel,Scope 1,Operations,410,No,No
+462-6-2015,Energy/Fuel,Scope 2,Operations,340,No,No
+462-7-2013,Scope 3 upstream,N/a (field not yet included in 2013 reporting),Upstream,180,No,No
+462-7-2013,Scope 2,N/a (field not yet included in 2013 reporting),Operations,980,No,No
+462-7-2013,Scope 1,N/a (field not yet included in 2013 reporting),Operations,10,No,No
+462-8-2013,Scope 3 upstream,N/a (field not yet included in 2013 reporting),Upstream,130,No,No
+462-8-2013,Scope 2,N/a (field not yet included in 2013 reporting),Operations,90,No,No
+462-8-2013,Scope 1,N/a (field not yet included in 2013 reporting),Operations,0,No,No
+46702-1-2014,Material acquisition,Scope 1 & 2,Upstream,301,No,No
+46702-1-2014,Cradle to gate,"Scope 1, 2, & 3",Operations,302,No,No
+46702-2-2016,BLANK,Scope 2,Operations,275,No,No
+46702-2-2016,Manufacturing,Scope 1,Operations,240,No,No
+46702-2-2016,Distribution,Scope 3,Downstream,86,Yes,No
+47200-1-2015,Material acquisition,Scope 1 & 2,Upstream,9.31E+00,No,No
+47200-1-2015,Production,Scope 1 & 2,Operations,1.28E+00,No,No
+47200-1-2015,Consumer use,Scope 1 & 2,Downstream,6.85E+01,No,No
+47200-1-2015,End of life/Final disposal,BLANK,Downstream,3.62E-02,No,Yes
+47200-1-2015,Other: Distribution and Storage,Scope 1 & 2,Downstream,3.01E-02,No,No
+47498-1-2013,Paper mill,N/a (field not yet included in 2013 reporting),Upstream,1.03,No,No
+47498-1-2013,Box production,N/a (field not yet included in 2013 reporting),Operations,0.08,No,No
+47498-1-2013,Corrugator,N/a (field not yet included in 2013 reporting),Operations,0.05,No,No
+50932-1-2015,Cradle to gate,Scope 3,Upstream,0.4,No,No
+50932-1-2015,Processing,Scope 1 & 2,Operations,0.3,No,No
+511-2-2014,Production,"Scope 1, 2, & 3",Operations,3530,No,No
+511-2-2014,Manufacturing,"Scope 1, 2, & 3",Operations,410,No,No
+5344-1-2013,"Production (material, manufacturing)",N/a (field not yet included in 2013 reporting),Operations,36,No,No
+5344-1-2013,"Use Phase (lifetime 15 years, Energy consumption 251 KWh/year)",N/a (field not yet included in 2013 reporting),Downstream,349,No,No
+5344-1-2013,End of Life (Disp & Recycling),N/a (field not yet included in 2013 reporting),Downstream,15,No,Yes
+5344-1-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,9,Yes,No
+5344-1-2014,Manufacturing,Scope 1 & 2,Operations,36,No,No
+5344-1-2014,Consumer use,Scope 3,Downstream,349,No,No
+5344-1-2014,End of life/Final disposal,Scope 3,Downstream,15,No,Yes
+5344-1-2014,Transportation,Scope 3,Downstream,9,Yes,No
+5344-1-2015,Manufacturing,Scope 1 & 2,Operations,36,No,No
+5344-1-2015,Consumer use,Scope 3,Downstream,349,No,No
+5344-1-2015,End of life/Final disposal,Scope 3,Downstream,15,No,Yes
+5344-1-2015,Transportation,Scope 3,Downstream,9,Yes,No
+5414-1-2013,Materials stage,N/a (field not yet included in 2013 reporting),Upstream,208.86,No,No
+5414-1-2013,Manufacturing stage,N/a (field not yet included in 2013 reporting),Operations,4.31,No,No
+6860-10-2017,Material acquisition,Scope 3,Upstream,190,No,No
+6860-10-2017,Manufacturing,Scope 1 & 2,Operations,4.9,No,No
+6860-10-2017,Consumer use,Scope 3,Downstream,2000,No,No
+6860-10-2017,Recycling,Scope 3,Downstream,50,No,Yes
+6860-10-2017,Distribution,Scope 3,Downstream,40,Yes,No
+6860-11-2017,Material acquisition,Scope 3,Upstream,260,No,No
+6860-11-2017,Manufacturing,Scope 1 & 2,Operations,4.9,No,No
+6860-11-2017,Consumer use,Scope 3,Downstream,2000,No,No
+6860-11-2017,Recycling,Scope 3,Downstream,66,No,Yes
+6860-11-2017,Distribution,Scope 3,Downstream,49,Yes,No
+6860-1-2013,Raw material Production(Product),N/a (field not yet included in 2013 reporting),Upstream,70,No,No
+6860-1-2013,Product Production (Product),N/a (field not yet included in 2013 reporting),Operations,19,No,No
+6860-1-2013,Use(Electricity),N/a (field not yet included in 2013 reporting),Downstream,250,No,No
+6860-1-2013,Use(Consumption Life Cycle),N/a (field not yet included in 2013 reporting),Downstream,150,No,No
+6860-1-2013,Distribution,N/a (field not yet included in 2013 reporting),Downstream,2,Yes,No
+6860-2-2013,Raw material Production (Product),N/a (field not yet included in 2013 reporting),Upstream,72,No,No
+6860-2-2013,Product Production (Product),N/a (field not yet included in 2013 reporting),Operations,19,No,No
+6860-2-2013,Use (Electricity),N/a (field not yet included in 2013 reporting),Downstream,250,No,No
+6860-2-2013,Use(Consumption Life Cycle,N/a (field not yet included in 2013 reporting),Downstream,230,No,No
+6860-2-2013,Distribution (Product),N/a (field not yet included in 2013 reporting),Downstream,2,Yes,No
+6860-3-2014,Material acquisition,Scope 3,Upstream,160,No,No
+6860-3-2014,Manufacturing,Scope 1 & 2,Operations,28,No,No
+6860-3-2014,Consumer use,Scope 3,Downstream,1100,No,No
+6860-3-2014,Recycling,Scope 3,Downstream,46,No,Yes
+6860-3-2014,Distribution,Scope 3,Downstream,19,Yes,No
+6860-3-2015,Material acquisition,Scope 3,Upstream,160,No,No
+6860-3-2015,Manufacturing,Scope 1 & 2,Operations,28,No,No
+6860-3-2015,Consumer use,Scope 3,Downstream,1100,No,No
+6860-3-2015,Recycling,Scope 3,Downstream,46,No,Yes
+6860-3-2015,Distribution,Scope 3,Downstream,19,Yes,No
+6860-3-2017,Material acquisition,Scope 3,Upstream,160,No,No
+6860-3-2017,Manufacturing,Scope 1 & 2,Operations,28,No,No
+6860-3-2017,Consumer use,Scope 3,Downstream,1100,No,No
+6860-3-2017,Recycling,Scope 3,Downstream,46,No,Yes
+6860-3-2017,Distribution,Scope 3,Downstream,19,Yes,No
+6860-4-2014,Material acquisition,Scope 3,Upstream,210,No,No
+6860-4-2014,Material acquisition,Scope 3,Upstream,28,No,No
+6860-4-2014,Manufacturing,Scope 1 & 2,Operations,23,No,No
+6860-4-2014,Consumer use,Scope 3,Downstream,1200,No,No
+6860-4-2014,Recycling,Scope 3,Downstream,67,No,Yes
+6860-4-2015,Material acquisition,Scope 3,Upstream,210,No,No
+6860-4-2015,BLANK,Scope 3,Operations,23,No,No
+6860-4-2015,Consumer use,Scope 3,Downstream,1200,No,No
+6860-4-2015,Recycling,Scope 3,Downstream,67,No,Yes
+6860-5-2017,Material acquisition,Scope 3,Upstream,180,No,No
+6860-5-2017,Manufacturing,Scope 1 & 2,Operations,25,No,No
+6860-5-2017,Consumer use,Scope 3,Downstream,910,No,No
+6860-5-2017,Recycling,Scope 3,Downstream,47,No,Yes
+6860-5-2017,Distribution,Scope 3,Downstream,21,Yes,No
+6860-6-2017,Material acquisition,Scope 3,Upstream,130,No,No
+6860-6-2017,Manufacturing,Scope 1 & 2,Operations,14,No,No
+6860-6-2017,Consumer use,Scope 3,Downstream,2100,No,No
+6860-6-2017,Recycling,Scope 3,Downstream,45,No,Yes
+6860-6-2017,Distribution,Scope 3,Downstream,16,Yes,No
+6860-7-2017,Material acquisition,Scope 3,Upstream,180,No,No
+6860-7-2017,Manufacturing,Scope 1 & 2,Operations,25,No,No
+6860-7-2017,Consumer use,Scope 3,Downstream,1000,No,No
+6860-7-2017,Recycling,Scope 3,Downstream,47,No,Yes
+6860-7-2017,Distribution,Scope 3,Downstream,21,Yes,No
+6860-8-2017,Material acquisition,Scope 3,Upstream,130,No,No
+6860-8-2017,Manufacturing,Scope 1 & 2,Operations,14,No,No
+6860-8-2017,Consumer use,Scope 3,Downstream,2100,No,No
+6860-8-2017,Recycling,Scope 3,Downstream,45,No,Yes
+6860-8-2017,Distribution,Scope 3,Downstream,16,Yes,No
+6860-9-2017,Material acquisition,Scope 3,Upstream,180,No,No
+6860-9-2017,Manufacturing,Scope 1 & 2,Operations,25,No,No
+6860-9-2017,Consumer use,Scope 3,Downstream,1000,No,No
+6860-9-2017,Recycling,Scope 3,Downstream,47,No,Yes
+6860-9-2017,Distribution,Scope 3,Downstream,21,Yes,No
+6874-1-2013,Production,N/a (field not yet included in 2013 reporting),Operations,1.8,No,No
+6874-1-2013,Material/Recycle,N/a (field not yet included in 2013 reporting),Downstream,75.4,No,Yes
+6874-1-2013,Use phase,N/a (field not yet included in 2013 reporting),Downstream,57.8,No,No
+6874-1-2013,Dispose,N/a (field not yet included in 2013 reporting),Downstream,4.3,No,Yes
+6874-1-2013,Transport,N/a (field not yet included in 2013 reporting),Downstream,0.9,Yes,No
+6874-1-2014,Material acquisition,Scope 3,Upstream,75.4,No,No
+6874-1-2014,Production,Scope 1 & 2,Operations,1.8,No,No
+6874-1-2014,Consumer use,Scope 3,Downstream,57.8,No,No
+6874-1-2014,Waste,Scope 3,Downstream,4.3,No,Yes
+6874-1-2014,Transportation,Scope 3,Downstream,0.9,Yes,No
+7164-1-2014,Manufacturing,Scope 1 & 2,Operations,867,No,No
+7164-1-2014,Cradle to grave,"Scope 1, 2, & 3",Downstream,33932,No,No
+7164-1-2015,Manufacturing,Scope 1 & 2,Operations,844,No,No
+7164-1-2015,Cradle to grave,"Scope 1, 2, & 3",Downstream,39101,No,No
+7283-1-2013,"Material (steel, cast iron, zinc)",N/a (field not yet included in 2013 reporting),Upstream,2,No,No
+7283-1-2013,Casting,N/a (field not yet included in 2013 reporting),Operations,0.4,No,No
+7283-1-2013,Transport,N/a (field not yet included in 2013 reporting),Downstream,0.02,Yes,No
+7283-1-2013,"End of life (recycling, cut-off)",N/a (field not yet included in 2013 reporting),Downstream,0.0001,No,Yes
+73475-1-2016,Production,Scope 1,Operations,800,No,No
+73475-1-2016,Energy/Fuel,Scope 2,Operations,73,No,No
+73475-1-2016,"Other: Use of sold products, coal combustion",Scope 3,Downstream,2152,No,No
+8362-1-2016,Material acquisition,Scope 3,Upstream,5556,No,No
+8362-1-2016,Manufacturing,Scope 1,Operations,203,No,No
+8362-1-2016,Manufacturing,Scope 2,Operations,154,No,No
+8362-1-2016,Energy/Fuel,Scope 3,Operations,122,No,No
+8362-1-2016,Consumer use,Scope 3,Downstream,185315,No,No
+8362-1-2016,End of life/Final disposal,Scope 3,Downstream,268,No,Yes
+8362-1-2016,Transportation,Scope 3,Downstream,32,Yes,No
+8362-1-2016,Transportation,Scope 3,Downstream,24,Yes,No
+8362-1-2016,Waste,Scope 3,Downstream,13,No,Yes
+8517-1-2015,Production,Scope 1,Operations,153,No,No
+8517-1-2015,Energy/Fuel,Scope 2,Operations,1.2,No,No
+8517-1-2015,Transportation,Scope 3,Downstream,57,Yes,No
+8517-2-2015,Production,Scope 1,Operations,180,No,No
+8517-2-2015,Energy/Fuel,Scope 2,Operations,0,No,No
+8517-2-2015,Transportation,Scope 3,Downstream,30,Yes,No
+9101-1-2015,Material acquisition,Scope 3,Upstream,28.466,No,No
+9101-1-2015,Operation of premises,Scope 1 & 2,Operations,0.779,No,No
+9101-1-2015,Assembly,Scope 3,Operations,0.577,No,No
+9101-1-2015,Consumer use,Scope 3,Downstream,15.203,No,No
+9101-1-2015,Distribution,Scope 3,Downstream,2.887,Yes,No
+9101-1-2015,Transportation,Other: Scope 1 & 3,Downstream,0.576,Yes,No
+9101-1-2015,Other: Maintenance,Scope 3,Downstream,0.035,No,No
+9101-1-2015,Recycling,Scope 3,Downstream,-0.01,No,Yes
+9298-1-2013,Input Materials and Supplies,N/a (field not yet included in 2013 reporting),Upstream,7,No,No
+9298-1-2013,Manufacturing and Operations,N/a (field not yet included in 2013 reporting),Operations,19,No,No
+9298-1-2013,Business Travel,N/a (field not yet included in 2013 reporting),Operations,1,No,No
+9298-1-2013,Logistics,N/a (field not yet included in 2013 reporting),Downstream,2,Yes,No
+9298-1-2014,Material acquisition,Scope 3,Upstream,9.3,No,No
+9298-1-2014,Manufacturing,Scope 1 & 2,Operations,15.7,No,No
+9298-1-2014,Other:,Scope 3,Downstream,4,No,No
+9298-2-2013,Input Materials and Supplies,N/a (field not yet included in 2013 reporting),Upstream,3,No,No
+9298-2-2013,Manufacturing and Operations,N/a (field not yet included in 2013 reporting),Operations,9,No,No
+9298-2-2013,Business Travel,N/a (field not yet included in 2013 reporting),Operations,1,No,No
+9298-2-2013,Logistics,N/a (field not yet included in 2013 reporting),Downstream,1,Yes,No
+9298-2-2014,Material acquisition,Scope 3,Upstream,4.5,No,No
+9298-2-2014,Manufacturing,Scope 1 & 2,Operations,7.6,No,No
+9298-2-2014,Other:,Scope 3,Downstream,1.9,No,No
+9298-3-2013,Input Materials and Supplies,N/a (field not yet included in 2013 reporting),Upstream,2,No,No
+9298-3-2013,Manufacturing and Operations,N/a (field not yet included in 2013 reporting),Operations,5,No,No
+9298-3-2013,Business Travel,N/a (field not yet included in 2013 reporting),Operations,0,No,No
+9298-3-2013,Logistics,N/a (field not yet included in 2013 reporting),Downstream,0,Yes,No
+9298-3-2014,Material acquisition,Scope 3,Upstream,2.2,No,No
+9298-3-2014,Manufacturing,Scope 1 & 2,Operations,3.8,No,No
+9298-3-2014,Other:,Scope 3,Downstream,1,No,No
