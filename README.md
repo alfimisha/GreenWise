@@ -1,2 +1,2 @@
 # GreenWise
-Hacklytics 2025 chrome extension for carbon emissions based product purchased.
+A Chrome extension integrated with bank transactions to calculate the carbon footprint of purchases.
