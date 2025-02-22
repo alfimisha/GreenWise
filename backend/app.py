@@ -1,8 +1,26 @@
-from flask import Flask, jsonify # type: ignore
+from flask import Flask, request, jsonify # type: ignore
 import pandas as pd
 import os
+import pickle
+import numpy as np
+import joblib
+
+with open("data/carbon_emissions_model.pkl", "rb") as f:
+    model = joblib.load(f)
+
+print("Model loaded successfully")
 
 app = Flask(__name__)
+
+@app.route('/predict', methods=['POST'])
+def predict():
+    try:
+        data = request.json['features']  # Expecting {"features": [val1, val2, ...]}
+        features = np.array(data).reshape(1, -1)  # Reshape for prediction
+        prediction = model.predict(features)  # Get prediction
+        return jsonify({"prediction": prediction.tolist()})
+    except Exception as e:
+        return jsonify({"error": str(e)})
 
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'dev-secret-key')
 
