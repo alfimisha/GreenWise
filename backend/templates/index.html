@@ -3,34 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carbon Emissions Prediction</title>
+    <title>Carbon Emission Predictor</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h1>Enter Product Information to Predict Carbon Emissions</h1>
-    <form action="/predict" method="post">
-        <label for="year_of_reporting">Year of Reporting:</label>
-        <input type="text" id="year_of_reporting" name="year_of_reporting" required><br><br>
+    <div class="container">
+        <h1>Carbon Emission Predictor</h1>
+        
+        <form action="/predict" method="POST">
+            <label for="year_of_reporting">Year of Reporting:</label>
+            <input type="text" id="year_of_reporting" name="year_of_reporting" required>
 
-        <label for="product_name">Product Name (and Functional Unit):</label>
-        <input type="text" id="product_name" name="product_name" required><br><br>
+            <label for="product_name">Product Name:</label>
+            <input type="text" id="product_name" name="product_name" required>
 
-        <label for="product_detail">Product Detail:</label>
-        <input type="text" id="product_detail" name="product_detail" required><br><br>
+            <label for="product_detail">Product Detail:</label>
+            <input type="text" id="product_detail" name="product_detail" required>
 
-        <label for="company">Company Name:</label>
-        <input type="text" id="company" name="company" required><br><br>
+            <label for="company">Company:</label>
+            <input type="text" id="company" name="company" required>
 
-        <label for="country">Country of Company Incorporation:</label>
-        <input type="text" id="country" name="country" required><br><br>
+            <label for="country">Country:</label>
+            <input type="text" id="country" name="country" required>
 
-        <label for="industry">Company's GICS Industry:</label>
-        <input type="text" id="industry" name="industry" required><br><br>
+            <label for="industry">Industry:</label>
+            <input type="text" id="industry" name="industry" required>
 
-        <button type="submit">Predict Emissions</button>
-    </form>
+            <button type="submit">Predict</button>
+        </form>
 
-    {% if prediction %}
-        <h2>Predicted Carbon Emissions: {{ prediction }} CO2e (carbon dioxide equivalent)</h2>
-    {% endif %}
+        {% if prediction %}
+            <div class="result">
+                <h2>Predicted Emission:</h2>
+                <p>{{ prediction }}</p>
+            </div>
+        {% endif %}
+    </div>
 </body>
 </html>
