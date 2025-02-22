@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Amazon Product Scraper",
+  "version": "1.0",
+  "description": "Scrape product details from Amazon and predict carbon emissions.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "https://www.amazon.com/*",
+    "http://127.0.0.1:5000/*"
+  ]
+}
