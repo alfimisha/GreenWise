@@ -1,13 +1,17 @@
 import pandas as pd
-import joblib
-from flask import Flask, render_template, request
+import joblib 
+from flask import Flask, render_template, request, jsonify
 
 # Load model, scaler, and columns
 model = joblib.load("data/carbon_emissions_model.pkl")
 scaler = joblib.load("data/scaler.pkl")
 model_columns = joblib.load("data/model_columns.pkl")
+print("Model loaded successfully")
 
 app = Flask(__name__)
+
+df = pd.read_csv('data/PublicTablesForCarbonCatalogueDataDescriptor_v30Oct2021(Product Level Data).csv', encoding = 'ISO-8859-1')
+print("Columns in CSV:", df.columns)
 
 # Route to render the input form (index.html)
 @app.route('/')
@@ -55,6 +59,32 @@ def predict():
         predicted_emission_text = f"{predicted_emission:.6f} kg"
 
     return render_template('index.html', prediction=predicted_emission_text)
+
+# GET endpoint to retrieve the entire carbon data from the CSV
+@app.route('/carbon-data')
+def get_carbon_data():
+    data_records = df.to_dict(orient='records')
+    return jsonify(data_records)
+
+
+# GET endpoint to retrieve a specific product's carbon emission
+@app.route('/product-carbon', methods=['GET'])
+def product_carbon():
+    product_name = request.args.get('name')
+    if not product_name:
+        return jsonify({
+            'error': 'Please provide a product name using the "name" query parameter.'
+        }), 400
+
+    # Filter data using the column "Product name (and functional unit)"
+    filtered = df[df['Product name (and functional unit)'].str.contains(product_name, case=False, na=False)]
+    if filtered.empty:
+        return jsonify({
+            'error': f'No product found matching "{product_name}"'
+        }), 404
+
+    data_records = filtered.to_dict(orient='records')
+    return jsonify(data_records)
 
 if __name__ == '__main__':
     app.run(debug=True)
