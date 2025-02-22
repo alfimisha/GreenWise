@@ -48,7 +48,13 @@ def predict():
     # Make prediction
     predicted_emission = model.predict(example_scaled)[0]
 
-    return render_template('index.html', prediction=predicted_emission)
+    # Format predicted_emission_text
+    if predicted_emission < 0.000001:
+        predicted_emission_text = "less than 1 mg"
+    else:
+        predicted_emission_text = f"{predicted_emission:.6f} kg"
+
+    return render_template('index.html', prediction=predicted_emission_text)
 
 if __name__ == '__main__':
     app.run(debug=True)
