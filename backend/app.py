@@ -1,17 +1,13 @@
 import pandas as pd
-import joblib 
+import joblib
 from flask import Flask, render_template, request, jsonify
 
 # Load model, scaler, and columns
 model = joblib.load("data/carbon_emissions_model.pkl")
 scaler = joblib.load("data/scaler.pkl")
 model_columns = joblib.load("data/model_columns.pkl")
-print("Model loaded successfully")
 
 app = Flask(__name__)
-
-df = pd.read_csv('data/PublicTablesForCarbonCatalogueDataDescriptor_v30Oct2021(Product Level Data).csv', encoding = 'ISO-8859-1')
-print("Columns in CSV:", df.columns)
 
 # Route to render the input form (index.html)
 @app.route('/')
@@ -53,7 +49,12 @@ def predict():
         # Make prediction
         predicted_emission = model.predict(example_scaled)[0]
 
-    return render_template('index.html', prediction=predicted_emission)
+        # Return JSON response
+        return jsonify({"prediction": predicted_emission})
+    
+    except Exception as e:
+        # If there's any exception, return error message
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
     app.run(debug=True)
