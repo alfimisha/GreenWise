@@ -15,12 +15,26 @@ app = Flask(__name__)
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
-        data = request.json['features']  # Expecting {"features": [val1, val2, ...]}
-        features = np.array(data).reshape(1, -1)  # Reshape for prediction
-        prediction = model.predict(features)  # Get prediction
+        data = request.json  # Expecting {"features": [num1, num2, ...], "text": "some text input"}
+
+        # Extract numerical features
+        numerical_features = np.array(data['features']).reshape(1, -1)  # Reshape for prediction
+
+        # Extract text field (Example: Convert text to a simple numeric hash or encode it properly)
+        text_input = data.get('text', "").lower().strip()  # Extract text and preprocess
+        text_numeric = hash(text_input) % 1000000  # Simple hash for numeric conversion
+
+        # Combine numerical features with the processed text field (assuming the model expects this)
+        final_features = np.append(numerical_features, [[text_numeric]], axis=1)  # Append text feature
+
+        # Get prediction
+        prediction = model.predict(final_features)
+
         return jsonify({"prediction": prediction.tolist()})
+    
     except Exception as e:
         return jsonify({"error": str(e)})
+
 
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'dev-secret-key')
 
