@@ -17,14 +17,17 @@ def home():
 # Route to handle form submission and make prediction
 @app.route('/predict', methods=['POST'])
 def predict():
-    try: 
+    try:
         # Get form data
-        year_of_reporting = request.form['year_of_reporting']
+        year_of_reporting = int(request.form['year_of_reporting'])
         product_name = request.form['product_name']
         product_detail = request.form['product_detail']
         company = request.form['company']
         country = request.form['country']
         industry = request.form['industry']
+
+        # Print received data for debugging
+        print(f"Received data: Year: {year_of_reporting}, Product: {product_name}, Country: {country}, Industry: {industry}")
 
         # Convert to DataFrame
         example_data = {
@@ -40,8 +43,12 @@ def predict():
         # One-hot encode categorical features
         example_encoded = pd.get_dummies(example_df)
 
-        # Ensure the new data matches the columns from training data
+        # Align the columns with the model's training data
         example_encoded = example_encoded.reindex(columns=model_columns, fill_value=0)
+
+        # Print the columns for debugging
+        print(f"Encoded data columns: {example_encoded.columns}")
+        print(f"Model columns: {model_columns}")
 
         # Standardize using the same scaler
         example_scaled = pd.DataFrame(scaler.transform(example_encoded), columns=example_encoded.columns)
