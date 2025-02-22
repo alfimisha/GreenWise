@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "My Scraper Extension",
+    "version": "1.0",
+    "description": "Scrapes data using Python.",
+    "permissions": [
+      "nativeMessaging",
+      "activeTab",
+      "scripting"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://www.amazon.com/*"], 
+        "js": ["content.js"]
+      }
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+      "externally_connectable": {
+          "matches": ["*://*.amazon.com/*"]
+      }
+  }
