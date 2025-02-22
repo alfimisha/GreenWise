@@ -53,43 +53,7 @@ def predict():
         # Make prediction
         predicted_emission = model.predict(example_scaled)[0]
 
-    # Format predicted_emission_text
-    if abs(predicted_emission) < 0.000001:
-        predicted_emission_text = "less than 1 mg"
-    else:
-        predicted_emission_text = f"{predicted_emission:.6f} kg"
-
-        #return render_template('index.html', prediction=predicted_emission_text)
-
-# GET endpoint to retrieve the entire carbon data from the CSV
-@app.route('/carbon-data')
-def get_carbon_data():
-    data_records = df.to_dict(orient='records')
-    return jsonify(data_records)
-
-
-# GET endpoint to retrieve a specific product's carbon emission
-@app.route('/product-carbon', methods=['GET'])
-def product_carbon():
-    product_name = request.args.get('name')
-    if not product_name:
-        return jsonify({
-            'error': 'Please provide a product name using the "name" query parameter.'
-        }), 400
-
-    # Filter data using the column "Product name (and functional unit)"
-    filtered = df[df['Product name (and functional unit)'].str.contains(product_name, case=False, na=False)]
-    if filtered.empty:
-        return jsonify({
-            'error': f'No product found matching "{product_name}"'
-        }), 404
-
-    data_records = filtered.to_dict(orient='records')
-    return jsonify(data_records)
-        return jsonify({"prediction": predicted_emission})
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-
+    return render_template('index.html', prediction=predicted_emission)
 
 if __name__ == '__main__':
     app.run(debug=True)
