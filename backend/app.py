@@ -21,22 +21,19 @@ def predict():
         # Get form data
         year_of_reporting = int(request.form['year_of_reporting'])
         product_name = request.form['product_name']
-        product_detail = request.form['product_detail']
-        company = request.form['company']
+        #product_detail = request.form['product_detail']
+        #company = request.form['company']
         country = request.form['country']
-        industry = request.form['industry']
+        #industry = request.form['industry']
 
         # Print received data for debugging
-        print(f"Received data: Year: {year_of_reporting}, Product: {product_name}, Country: {country}, Industry: {industry}")
+        print(f"Received data: Year: {year_of_reporting}, Product: {product_name}, Country: {country}")
 
         # Convert to DataFrame
         example_data = {
             "Year of reporting": [year_of_reporting],
             "Product name (and functional unit)": [product_name],
-            "Product detail": [product_detail],
-            "Company": [company],
-            "Country (where company is incorporated)": [country],
-            "Company's GICS Industry": [industry]
+            "Country (where company is incorporated)": [country]
         }
         example_df = pd.DataFrame(example_data)
 
