@@ -1,58 +1,54 @@
-from flask import Flask, request, jsonify # type: ignore
 import pandas as pd
-import os
-import pickle
-import numpy as np
 import joblib
+from flask import Flask, render_template, request
 
-with open("data/carbon_emissions_model.pkl", "rb") as f:
-    model = joblib.load(f)
-
-print("Model loaded successfully")
+# Load model, scaler, and columns
+model = joblib.load("data/carbon_emissions_model.pkl")
+scaler = joblib.load("data/scaler.pkl")
+model_columns = joblib.load("data/model_columns.pkl")
 
 app = Flask(__name__)
 
-@app.route('/predict', methods=['POST'])
-def predict():
-    try:
-        data = request.json  # Expecting {"features": [num1, num2, ...], "text": "some text input"}
-
-        # Extract numerical features
-        numerical_features = np.array(data['features']).reshape(1, -1)  # Reshape for prediction
-
-        # Extract text field (Example: Convert text to a simple numeric hash or encode it properly)
-        text_input = data.get('text', "").lower().strip()  # Extract text and preprocess
-        text_numeric = hash(text_input) % 1000000  # Simple hash for numeric conversion
-
-        # Combine numerical features with the processed text field (assuming the model expects this)
-        final_features = np.append(numerical_features, [[text_numeric]], axis=1)  # Append text feature
-
-        # Get prediction
-        prediction = model.predict(final_features)
-
-        return jsonify({"prediction": prediction.tolist()})
-    
-    except Exception as e:
-        return jsonify({"error": str(e)})
-
-
-app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'dev-secret-key')
-
-df = pd.read_csv('data/PublicTablesForCarbonCatalogueDataDescriptor_v30Oct2021(Product Level Data).csv', encoding = 'ISO-8859-1')
-
+# Route to render the input form (index.html)
 @app.route('/')
 def home():
-    return "Hello from GreenWise!"
+    return render_template('index.html')
 
-@app.route('/carbon-data')
-def get_carbon_data():
-    data_records = df.to_dict(orient='records')
-    return jsonify(data_records)
+# Route to handle form submission and make prediction
+@app.route('/predict', methods=['POST'])
+def predict():
+    # Get form data
+    year_of_reporting = request.form['year_of_reporting']
+    product_name = request.form['product_name']
+    product_detail = request.form['product_detail']
+    company = request.form['company']
+    country = request.form['country']
+    industry = request.form['industry']
 
-#error handling for 404
-@app.errorhandler(404)
-def page_not_found(e):
-    return jsonify({'error': 'Page not found'}), 404
+    # Convert to DataFrame
+    example_data = {
+        "Year of reporting": [year_of_reporting],
+        "Product name (and functional unit)": [product_name],
+        "Product detail": [product_detail],
+        "Company": [company],
+        "Country (where company is incorporated)": [country],
+        "Company's GICS Industry": [industry]
+    }
+    example_df = pd.DataFrame(example_data)
+
+    # One-hot encode categorical features
+    example_encoded = pd.get_dummies(example_df)
+
+    # Ensure the new data matches the columns from training data
+    example_encoded = example_encoded.reindex(columns=model_columns, fill_value=0)
+
+    # Standardize using the same scaler
+    example_scaled = pd.DataFrame(scaler.transform(example_encoded), columns=example_encoded.columns)
+
+    # Make prediction
+    predicted_emission = model.predict(example_scaled)[0]
+
+    return render_template('index.html', prediction=predicted_emission)
 
 if __name__ == '__main__':
     app.run(debug=True)
