@@ -26,10 +26,8 @@ def scrape_amazon_product(url):
         data = {
             "year_of_reporting": "2024",
             "product_name": product_name,
-            "product_detail": product_detail,
-            "company": company,
             "country": country,
-            "industry": industry
+    
         }
 
         return data
