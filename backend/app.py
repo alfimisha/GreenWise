@@ -18,15 +18,22 @@ def home():
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
-        # Get JSON data from the request
+        # Ensure request contains JSON data
+        if not request.is_json:
+            return jsonify({"error": "Request must be JSON", "success": False}), 415
+
+        # Get JSON data
         data = request.get_json()
 
-        # Extract data from request
+        if data is None:
+            return jsonify({"error": "Invalid JSON data", "success": False}), 400
+
+        # Extract data fields
         year_of_reporting = int(data['year_of_reporting'])
         product_name = data['product_name']
         country = data['country']
 
-        # Convert to DataFrame and make prediction
+        # Data processing (unchanged)
         example_data = {
             "Year of reporting": [year_of_reporting],
             "Product name (and functional unit)": [product_name],
@@ -46,5 +53,6 @@ def predict():
 
     except Exception as e:
         return jsonify({"error": str(e), "success": False}), 500
+
 if __name__ == '__main__':
     app.run(debug=True)

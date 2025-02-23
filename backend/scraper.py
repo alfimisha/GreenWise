@@ -22,7 +22,19 @@ def scrape_amazon_product(url):
         company = soup.find("a", {"id": "bylineInfo"})
         company = company.get_text(strip=True) if company else "Unknown Company"  # Correct Python syntax
 
-        country = "USA"
+        country_item = None
+        country_items = soup.find_all("li", class_="a-list-item")  # Find all items with the a-list-item class
+        
+        for item in country_items:
+            if "country" in item.get_text(strip=True).lower():  # Adjust logic to match the country info
+                country_item = item
+                break
+        
+        # Ensure that country_item was found
+        if country_item:
+            country = country_item.get_text(strip=True)
+        else:
+            country = "Unknown Country"  # Default if no country info found
 
         data = {
             "year_of_reporting": "2024",

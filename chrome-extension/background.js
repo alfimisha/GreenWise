@@ -76,7 +76,41 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
 // Function to scrape data from the page
 function scrapeProductData() {
     const productName = document.querySelector("#productTitle")?.innerText?.trim() || "Unknown Product";
-    const country = "USA"; // Default value
+    // Improved country extraction:
+    let country = "USA"; // Default value
+
+    const shipsFromElement = document.querySelector("#merchant-info");
+
+    if (shipsFromElement) {
+        const shipsFromText = shipsFromElement.innerText.trim();
+
+        // 1. Improved Regex (Handles many variations)
+        const countryMatch = shipsFromText.match(/(?:ships from and sold by|Dispatched from and sold by|Sold by)\s+(.+?)(?:\s+from|\s+in|\s+at|\s+on|\s+for|\s+by|\s+and|\s*$)/i);
+
+        if (countryMatch && countryMatch[1]) {
+            country = countryMatch[1].trim();
+
+            // 2. Robust Cleaning (Handles even more variations)
+            country = country.replace(/\s+and others/i, "");
+            country = country.replace(/\s+from.*$/i, "");
+            country = country.replace(/\s+in.*$/i, "");
+            country = country.replace(/\s+at.*$/i, "");
+            country = country.replace(/\s+on.*$/i, "");
+            country = country.replace(/\s+for.*$/i, "");
+            country = country.replace(/\s+by.*$/i, "");
+            country = country.replace(/\s+\(.*?\)|\s+\[.*?\]/g, ""); // Remove parentheses and brackets
+            country = country.replace(/\s+Ltd.*$/i, ""); // Remove "Ltd" and similar
+            country = country.replace(/\s+Inc.*$/i, ""); // Remove "Inc" and similar
+            country = country.replace(/\s+Corp.*$/i, ""); // Remove "Corp" and similar
+            country = country.replace(/\s+LLC.*$/i, ""); // Remove "LLC" and similar
+
+            country = country.trim();
+
+        } else {
+            // 3. Fallback Strategies (If still needed) - Adapt as necessary
+            // ... (You can add more fallbacks here if you find other variations)
+        }
+    }
 
     return {
         year_of_reporting: "2024",
