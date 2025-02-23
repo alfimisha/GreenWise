@@ -5,12 +5,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Carbon Emission Predictor</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <script>
+        // JavaScript function to handle form submission as JSON
+        function handleFormSubmit(event) {
+            event.preventDefault();  // Prevent the default form submission
+
+            // Gather form data
+            const data = {
+                year_of_reporting: document.getElementById('year_of_reporting').value,
+                product_name: document.getElementById('product_name').value,
+                country: document.getElementById('country').value
+            };
+
+            // Send data as JSON to Flask API
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(result => {
+                // Display prediction result
+                const resultDiv = document.getElementById('result');
+                if (result.success) {
+                    resultDiv.innerHTML = `<h2>Predicted Emission:</h2><p>${result.prediction} kg CO2e</p>`;
+                } else {
+                    resultDiv.innerHTML = `<p>Error: ${result.error}</p>`;
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('result').innerHTML = `<p>Error: ${error.message}</p>`;
+            });
+        }
+    </script>
 </head>
 <body>
     <div class="container">
         <h1>Carbon Emission Predictor</h1>
         
-        <form action="/predict" method="POST">
+        <form onsubmit="handleFormSubmit(event)">
             <label for="year_of_reporting">Year of Reporting:</label>
             <input type="text" id="year_of_reporting" name="year_of_reporting" required>
 
@@ -23,12 +59,7 @@
             <button type="submit">Predict</button>
         </form>
 
-        {% if prediction %}
-            <div class="result">
-                <h2>Predicted Emission:</h2>
-                <p>{{ prediction }}</p>
-            </div>
-        {% endif %}
+        <div id="result"></div>  <!-- Display the result here -->
     </div>
 </body>
 </html>

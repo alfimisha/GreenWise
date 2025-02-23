@@ -45,21 +45,18 @@ def scrape_amazon_product(url):
 
 def send_to_backend(data):
     api_url = "http://127.0.0.1:5000/predict"
-    headers = {"Content-Type": "application/json"}  # Correct content type: JSON
+    headers = {"Content-Type": "application/json"}  # Ensure JSON format
 
     try:
-        response = requests.post(api_url, json=data, headers=headers)  # Send JSON data
-        response.raise_for_status()  # Check for HTTP errors
+        response = requests.post(api_url, json=data, headers=headers)  # Use `json=` instead of `data=`
+        response.raise_for_status()  # Raise an error for HTTP issues
         result = response.json()  # Parse the JSON response
         print(f"Carbon Emission Prediction: {result.get('prediction', 'N/A')}")
-        return result  # Return the result (including success/error)
+        return result  
 
     except requests.exceptions.RequestException as e:
         print(f"Error sending data to backend: {e}")
-        return {"error": str(e), "success": False}  # Return error as a dictionary
-    except json.JSONDecodeError as e:
-        print(f"Error decoding JSON response: {e}")
-        return {"error": str(e), "success": False} # Return error as dictionary
+        return {"error": str(e), "success": False}
 
 if __name__ == "__main__":
     amazon_url = "https://www.amazon.com/dp/B08N5WRWNW"  # Or any other URL
