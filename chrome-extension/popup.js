@@ -8,9 +8,12 @@ document.getElementById("scrapeButton").addEventListener("click", function () {
 
           if (response.success) {
               document.getElementById("status").innerText =
-                  `Loaded data successfully! Product: ${response.product_name}
-
+                  `Loaded data successfully! 
                   
+                  
+                  Product: ${response.product_name}
+
+
                   
                   Carbon emissions: ${response.prediction}`;
           } else {
