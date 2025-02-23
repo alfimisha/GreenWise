@@ -15,7 +15,7 @@ document.getElementById("scrapeButton").addEventListener("click", function () {
 
 
                   
-                  Carbon emissions: ${response.prediction}`;
+                  Carbon emissions: ${response.prediction.toFixed(6)} kg`;
           } else {
               document.getElementById("status").innerText = "Error: " + response.error;
           }
