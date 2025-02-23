@@ -23,7 +23,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
                         if (result.error) {
                             sendResponse({ success: false, error: result.error });
                         } else {
-                            sendResponse({ success: true, prediction: result.prediction });
+                            sendResponse({ success: true, prediction: result.prediction, product_name: scrapedData.product_name });
                             // Update the frontend with the prediction
                             updateFrontendWithPrediction(result.prediction);
                         }
@@ -54,7 +54,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
                                 if (result.error) {
                                     sendResponse({ success: false, error: result.error });
                                 } else {
-                                    sendResponse({ success: true, prediction: result.prediction });
+                                    sendResponse({ success: true, prediction: result.prediction, product_name: scrapedData.product_name });
                                     // Update the frontend with the prediction
                                     updateFrontendWithPrediction(result.prediction);
                                 }
@@ -112,6 +112,8 @@ function scrapeProductData() {
         }
     }
 
+
+
     return {
         year_of_reporting: "2024",
         product_name: productName,
@@ -159,6 +161,7 @@ function displayPrediction(prediction) {
     // Find a location to display the prediction on the page
     const predictionElement = document.createElement("div");
     predictionElement.textContent = `Predicted Carbon Emission: ${prediction} kg CO2e`;
+    predictionElement.textContent = `Product: ${productName}`;
     predictionElement.style.position = "fixed"; // Fix the position at the top of the page
     predictionElement.style.top = "20px";
     predictionElement.style.left = "20px";

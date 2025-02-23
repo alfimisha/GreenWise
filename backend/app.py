@@ -69,11 +69,13 @@ def predict():
 
         # Make prediction
         predicted_emission = model.predict(example_scaled)[0]
+        
 
         return jsonify({
             "prediction": float(predicted_emission),
             "corrected_product_name": corrected_product_name,
-            "success": True
+            "success": True,
+            "product_name": product_name
         })
 
     except Exception as e:
