@@ -30,7 +30,8 @@
                 // Display prediction result
                 const resultDiv = document.getElementById('result');
                 if (result.success) {
-                    resultDiv.innerHTML = `<h2>Predicted Emission:</h2><p>${result.prediction} kg CO2e</p>`;
+                    resultDiv.innerHTML = `<h2>Predicted Emission:</h2>
+    <p>${parseFloat(result.prediction).toFixed(6)} kg CO₂ equivalent</p>`;
                 } else {
                     resultDiv.innerHTML = `<p>Error: ${result.error}</p>`;
                 }
