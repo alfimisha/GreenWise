@@ -5,7 +5,8 @@ document.getElementById("scrapeButton").addEventListener("click", function () {
       // Send message to background script
       chrome.runtime.sendMessage({ action: "scrape", url: url }, function (response) {
         if (response.success) {
-          document.getElementById("status").innerText = `Scraping and prediction successful! Carbon emissions ${response.prediction}`;
+          document.getElementById("status").innerText = 
+    `Scraping and prediction successful! Carbon emissions: ${response.prediction} kg CO₂e`;
         } else {
           document.getElementById("status").innerText = "Error: " + response.error;
         }

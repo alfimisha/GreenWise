@@ -76,7 +76,7 @@ def predict():
         predicted_emission = model.predict(example_scaled)[0]
 
         return jsonify({
-            "prediction": float(predicted_emission),
+            "prediction": round(float(predicted_emission), 6),
             "corrected_product_name": corrected_product_name,
             "success": True
         })
