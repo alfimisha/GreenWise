@@ -14,8 +14,13 @@ dataset_product_names = df["Product name (and functional unit)"].dropna().unique
 
 # Function to correct product name using fuzzy matching
 def get_closest_product_name(scraped_name):
+    """
+    Finds the closest matching product name from the dataset.
+    Always replaces the name with the highest-scoring match.
+    """
     match, score, _ = process.extractOne(scraped_name, dataset_product_names)
-    return match if score > 80 else scraped_name  # Only replace if confidence is high
+    return match  # Always return the best match, no threshold check
+
 
 app = Flask(__name__)
 
