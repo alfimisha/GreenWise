@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Carbon Emission Predictor</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+
     <script>
         // JavaScript function to handle form submission as JSON
         function handleFormSubmit(event) {
@@ -30,7 +31,11 @@
                 // Display prediction result
                 const resultDiv = document.getElementById('result');
                 if (result.success) {
-                    resultDiv.innerHTML = `<h2>Predicted Emission:</h2><p>${result.prediction} kg CO2e</p>`;
+                    resultDiv.innerHTML = `
+                        <h2>Prediction Result:</h2>
+                        <p><strong>Predicted Product:</strong> ${result.corrected_product_name}</p>
+                        <p><strong>Carbon Emissions:</strong> ${result.prediction} kg CO₂e</p>
+                    `;
                 } else {
                     resultDiv.innerHTML = `<p>Error: ${result.error}</p>`;
                 }
