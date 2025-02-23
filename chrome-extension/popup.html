@@ -1,14 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Amazon Product Scraper</title>
+  <!-- Connect the CSS file -->
+  <link rel="stylesheet" type="text/css" href="popup.css" />
 </head>
 <body>
-  <h1>Amazon Product Scraper</h1>
-  <button id="scrapeButton">Submit</button>
-  <p id="status"></p>
+  <!-- Outer white frame -->
+  <div class="popup-frame">
+
+    <!-- Inner green container -->
+    <div class="popup-container">
+      <!-- Title -->
+      <h1 style="color: white; font-size: 16px; margin-bottom: 10px;">Amazon Product Scraper</h1>
+
+      <!-- Button row (optional: place in .info-row if you want consistent spacing) -->
+      <div class="info-row">
+        <button id="scrapeButton" class="calculate-button">Scrape Product</button>
+      </div>
+
+      <!-- Status text (use .value if you want the green styling box, or just a paragraph) -->
+      <p id="status" class="value" style="text-align: left;"></p>
+    </div>
+
+  </div>
+
+  <!-- JavaScript -->
   <script src="popup.js"></script>
 </body>
 </html>
